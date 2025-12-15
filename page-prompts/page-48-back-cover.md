@@ -1,4 +1,4 @@
-# Back Cover Page - "The Chef at the Store"
+# Page 48 - BACK COVER
 
 ## BACK COVER CONTENT
 

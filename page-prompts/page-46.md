@@ -1,4 +1,4 @@
-# Page 46 - The Chef at the Store
+# Page 46 - HOPE + POSSIBILITIES
 
 ## CHARACTER DESCRIPTIONS
 
@@ -31,10 +31,15 @@
 - **Encouragement**: If Corey can transform, so can anyone
 
 ## PAGE TEXT
-And YOU, reading this, if YOUR store ever closes,
-If life throws you lemons (or worse—wilted roses),
-If roundabouts ruin your road into town,
-If bad water comes and your dreams start to drown...
+Remember young Corey and all his great crew,
+And know that THE END can mean STARTING brand new!
+With your family beside you (or friends, or your cat),
+You can pick yourself up, dust yourself off—just like THAT!
+
+Will he rocket to space? Will he ROCK with a band?
+Will he sail the high seas? Will he teach crabs to stand?
+Nobody knows! And that's perfectly great!
+The places you'll go are the places YOU'LL make!
 
 ## IMAGE PROMPT
 

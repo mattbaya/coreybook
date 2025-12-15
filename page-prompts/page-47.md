@@ -1,4 +1,4 @@
-# Page 47 - The Chef at the Store
+# Page 47 - GRAND FINALE
 
 ## CHARACTER DESCRIPTIONS
 
@@ -38,10 +38,15 @@
 - **Hope**: Every ending can be a new beginning
 
 ## PAGE TEXT
-Remember young Corey and all his great crew,
-And know that THE END can mean STARTING brand new!
-With your family beside you (or friends, or your cat),
-You can pick yourself up, dust yourself off—just like THAT!
+**...so WALK RIGHT ON IN!**
+
+🚀🎸🌟⚓🐧💎🎮📚🌮🎬
+
+**THE END**
+*(...or is it THE BEGINNING?)*
+
+*For all the chefs, dreamers, and families who start again.*
+*And for Corey—wherever your next road leads.*
 
 ## IMAGE PROMPT
 
