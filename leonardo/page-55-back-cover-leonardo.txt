@@ -1,0 +1,31 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading for the back cover showing a peaceful evening view.
+**Main Image:**
+Show The Store at Five Corners (reference: cartoon-characters/store-cartoon.jpg) from a distance, nestled peacefully at the five-way intersection. The historic building (cream siding, green shutters) glows softly with warm light in the windows. An American flag waves gently on the flagpole.
+**Setting:**
+Evening time with the Berkshire mountains silhouetted against a star-filled sky. The five roads stretch away in gentle curves into the distance, each leading toward different colored horizons suggesting infinite possibilities.
+**Atmosphere:**
+Peaceful and contemplative. The Store looks content and at rest—not abandoned, but ready for whatever comes next. Small details like a few cars parked nearby or soft light from the sunroom suggest ongoing life and possibility.
+**Text Placement Areas:**
+Leave clean space at the top for book description text and in the middle/lower areas for review quotes and series information.
+**Visual Elements:**
+- Soft evening colors (purples, deep blues, warm yellows from windows)
+- Stars beginning to appear in the darkening sky
+- Gentle suggestion that this is an ending that's also a beginning
+- Maybe small silhouette of the family visible in one of the lit windows
+**Overall Mood:**
+Serene completion. The story has come full circle, but the sense of infinite possibility remains. This is a place where dreams continue, where every ending opens a new door.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading, emphasizing the peaceful, contemplative mood with soft evening lighting and a sense of stories continuing beyond the page.

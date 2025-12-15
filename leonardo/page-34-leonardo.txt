@@ -1,0 +1,32 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing 5 distinct career fantasy bubbles around the family.
+**BUBBLE 1 - UMA THURMAN'S HAMSTER GUARD**:
+Show Corey (bald!) in a black Secret Service suit with sunglasses and earpiece, standing protectively next to Uma Thurman (elegant actress) who's gently holding a tiny hamster. Include a "HAMSTER SECURITY" badge and maybe a tiny metal detector for the hamster to walk through. Hollywood red carpet background.
+**BUBBLE 2 - MAINE LOBSTER FISHERMAN**:
+Corey in yellow rain gear hauling up lobster traps from the ocean. Show the lobster boat named "COREY CHAOS" with "VERONA ISLAND, ME" painted on the stern. One feisty lobster is clawing at Corey's nose while he pulls up the trap! Show the rocky Verona Island, Maine coastline, seagulls overhead, and other caught lobsters with prominent claws in the boat. Ocean spray and authentic Maine fishing atmosphere with Corey's surprised/pained expression from the nose-clawing lobster.
+**BUBBLE 3 - PRE-K CHILDCARE TEACHER**:
+Corey in a colorful apron reading to a circle of adorable 4-year-olds. Show a bright, cheerful daycare classroom with toys, alphabet blocks, and finger paints. Name tag reads "MR. COREY." Children should look engaged and happy.
+**BUBBLE 4 - GUITAR TUTOR**:
+Corey (bald!) teaching guitar to Matt in a music room. Corey is holding his ears in pain while Matt (much thinner than cartoon-characters/matt.jpg reference) enthusiastically sings "I'm a Vegetarian Now!" while playing guitar badly. Show a wall calendar filled with lesson dates for various instruments: "TUBA - MON", "BAGPIPES - WED", "DIDGERIDOO - FRI". Include various instruments around the room (tuba, bagpipes, didgeridoo visible). Matt should look happy and oblivious while Corey suffers.
+**BUBBLE 5 - GWAR SPECIAL EFFECTS ENGINEER**:
+Corey wearing safety goggles and black metal t-shirt, pouring a massive vat of fake blood into a theatrical cannon on a concert stage. GWAR band members in grotesque sci-fi monster costumes playing brutal music in background. Theatrical, over-the-top metal concert atmosphere with fake blood effects (cartoonish, not realistic).
+**THE FAMILY** should be in the center:
+- **Remi with dark brown straight hair, Super3 shirt) pointing excitedly at GWAR scene
+- **Oona** (honey blonde hair, Super3 shirt) fascinated by lobster fishing  
+- **Zephyr** (light brown hair, Super3 shirt) with BIGGEST SMILE at hamster guard
+- **Emily** (short silver hair) looking amused but slightly overwhelmed
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with each fantasy bubble having its own color scheme - Hollywood glam, Maine ocean blues, cheerful daycare colors, music room warm tones (with Corey's pain), and dark metal concert atmosphere. The family should be the stable center while the career bubbles swirl around them with increasing creativity and absurdity.

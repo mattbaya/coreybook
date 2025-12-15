@@ -1,0 +1,50 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing a CLOSE-UP VIEW of an iPad displaying multiple glowing reviews.
+**Main Composition:**
+Show only Corey's hands holding a large iPad horizontally. His hands should show he's a working chef - maybe slight flour dusting, clean but worked hands, wedding ring on left hand. The iPad fills most of the frame.
+**iPad Screen Layout:**
+The screen should show a review aggregator or multiple review site tabs. In the DEAD CENTER of the screen, in the LARGEST FONT:
+**"Finally someone who KNOWS what they're doing!"**
+(This should be the dominant text element, perhaps with a golden glow or highlight box around it)
+**Surrounding Reviews (various sizes, creating depth):**
+Arranged around the central quote like a constellation:
+Upper area:
+- "Chef Corey is awesome!" ★★★★★
+- "Captain of this amazingly run ship" ★★★★★
+- "Best croissant I've had in my life" ★★★★★
+Left side:
+- "For the first time in my almost 40 years..." ★★★★★
+- "The place is packed!" 
+- "One of THE BEST breakfast sandwiches" ★★★★★
+Right side:
+- "Crispy chicken is a must have!" ★★★★★
+- "Food obsessed in the best way" ★★★★★
+- "Ridiculously good!" ★★★★★
+Lower area:
+- "Great baked goods!" ★★★★★
+- "Service with a smile" ★★★★★
+- "Worth the stop!" ★★★★★
+- "What a find!" ★★★★★
+**Visual Details:**
+- Include small review site logos (Yelp, Google, etc.)
+- Show "215 reviews • 4.4 stars" type headers
+- Add floating heart reactions, thumbs up icons
+- Some reviews partially visible at edges (scrollable feel)
+- Soft glow from screen illuminating Corey's hands
+- Maybe notification badges showing "New Review!" 
+**Background:**
+Slightly blurred kitchen counter edge, maybe a coffee cup partially visible, creating intimate close-up feel.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading, focusing on the glowing screen as the light source, creating dramatic lighting on Corey's hands. The central review should be impossible to miss - the clear hero quote of the scene.

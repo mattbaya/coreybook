@@ -1,0 +1,32 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading BREAKING THE FOURTH WALL - directly addressing and welcoming the reader.
+**THE CENTRAL DOOR**: Show a large OPEN DOOR with brilliant golden light pouring through - this represents the door to the future, the door to "what's next." The light should be warm and inviting, pulling the viewer toward possibility.
+**THE FAMILY INVITATION**: The family should be visible through or beside the door, all smiling and BECKONING the reader:
+- **COREY** (bald!) gesturing "come on!" with welcoming, encouraging arms
+- **EMILY** (short silver hair) waving warmly to the reader
+- **THE SUPER THREE** (blue Super3 shirt (logo reference: images/super3v3.png)s) jumping excitedly, clearly inviting the reader to join their adventure
+**SCATTERED MEMORIES**: Around the door frame, lovingly scatter artifacts from the entire story journey:
+- Spatula (from chef days)
+- Coffee cup (from the Store)
+- Astronaut helmet (from space dreams)
+- Guitar (from rock star fantasy, maybe with subtle "Big Dog" reference)
+- Captain's hat (from sea captain dreams)
+- Fortune cookie (from career possibilities)
+- LEGO brick (from engineering dreams)
+- Other career symbols representing all the possibilities explored
+**DIRECT ADDRESS**: The characters should be looking directly at the VIEWER, making it clear this message is FOR them. The invitation should feel personal and inclusive.
+**THE MESSAGE**: "This door is for YOU too. If Corey can transform and find hope, so can you. Come through - the future is waiting."
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with brilliant golden light as the dominant feature. The door should feel like a portal to possibility, and the family should radiate warmth and inclusion. This is the moment the story becomes interactive and personal.

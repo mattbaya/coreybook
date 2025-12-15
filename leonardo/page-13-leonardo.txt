@@ -1,0 +1,21 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing Corey's tender farewell to The Store at Five Corners (reference: cartoon-characters/store-cartoon.jpg), with a crucial cliffhanger ending.
+Show Corey standing OUTSIDE the Store, no longer wearing his navy blue apron but holding it bundled in his hands. He looks up at the beautiful building (cream siding, green shutters, "Store at Five Corners" sign) with profound sadness and love. His hand might be gently touching the wall or a porch column as he says goodbye.
+A small "TEMPORARILY CLOSED" sign hangs in the window. The building itself should almost seem sad - perhaps the windows look like drooping eyes, showing that even the Store feels the loss.
+The background shows sunset behind the Berkshire mountains with melancholy oranges and purples in the sky. Autumn leaves fall gently around Corey. The construction chaos is still visible in the background, representing the forces that "pushed" him out.
+Include a small speech/thought bubble showing "Goodbye..." with a heart, emphasizing that this goodbye comes from love, not anger. This should feel like the end of three years of work, love, and dreams.
+**CRUCIAL CLIFFHANGER**: At the very edge of the image, almost missed at first glance, show hints of FOUR FIGURES running toward him in the distance. They should be barely visible - just silhouettes or suggestions - creating suspense and hope for Book 2.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with tender, melancholy mood while setting up hope. The sunset should be beautiful but sad with bold outlines and flat colors, and the approaching figures should create anticipation for the rescue to come.

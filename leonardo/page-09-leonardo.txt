@@ -1,0 +1,23 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing CHAOS at the Five Corners intersection. The intersection has been DESTROYED by construction work.
+Show hundreds of orange traffic cones EVERYWHERE - create Seussian piles of cones stacked absurdly high. Include giant excavators, dump trucks, road barriers, and construction workers in orange vests and hard hats working on the project.
+A huge official sign should read "ROUNDABOUT CONSTRUCTION - ROAD CLOSED - 1 YEAR" (maybe with a sad face doodled on it by a local).
+The beautiful Store at Five Corners sits ISOLATED in the background - the cream siding and green shutters still lovely, but now the building is completely cut off from the world by construction chaos. All five roads are torn up with barriers blocking access.
+Show would-be customers in cars making frustrated U-turns, and people on foot turning away with disappointed expressions and shrugs. They clearly want to visit but simply cannot get there.
+Corey stands on the Store's porch in his navy blue apron, looking dismayed while holding a "WELCOME - OPEN!" sign that now seems sadly ironic given that no one can reach him.
+Dust clouds swirl around the construction zone. The Store looks like a beautiful island surrounded by an orange cone sea of chaos.
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading emphasizing the absurd chaos of construction while showing Corey's isolated situation. The orange cones should be particularly exaggerated with bold outlines and bright flat colors.

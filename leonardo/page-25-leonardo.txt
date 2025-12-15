@@ -1,0 +1,26 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing Oona's LEGO engineer fantasy sequence.
+The main focus is LEGO ENGINEER COREY (completely bald!) wearing a hard hat and safety vest, standing proudly before MASSIVE LEGO STRUCTURES:
+1. **Life-sized STATUE OF LIBERTY**: Built entirely from green LEGO bricks, with tourists taking photographs and a helicopter flying nearby for scale comparison. The statue should maintain its iconic pose but have that unmistakable blocky LEGO texture.
+2. **300-FOOT LEGO SEQUOIA TREE**: A towering tree made of brown and green LEGO bricks stretching high into the clouds, with birds actually nesting in the LEGO branches.
+On the ground around the structures:
+- Scattered LEGO pieces that HURT to step on (show someone hopping on one foot yelling "OW!")
+- Corey holding blueprints labeled "NEXT: LEGO GRAND CANYON?"
+- A crowd of amazed people asking "WHY?" 
+- Corey grinning widely and responding "BECAUSE LEGOS!"
+In one corner, show OONA (long honey blonde hair, blue Super3 t-shirt) pointing excitedly at her suggested fantasy, clearly proud of this ambitious idea.
+The scale should be massive and impressive, with Corey looking small but proud next to his creations. Include classic LEGO details like the studs on top of bricks and that satisfying blocky aesthetic.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with bold outlines and bright primary colors that emphasize the LEGO aesthetic - lots of reds, blues, greens, and yellows in that blocky, satisfying LEGO style.

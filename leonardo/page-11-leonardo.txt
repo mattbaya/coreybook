@@ -1,0 +1,24 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing an interior shot of The Store at Five Corners looking abandoned and sad.
+The main scene shows the interior mostly dark, unused, with cobwebs in corners. Food is visibly rotting in the background - moldy items in display cases, spoiled produce, and abandoned meals.
+Corey (completely BALD) stands alone in the dark interior holding two signs:
+- One sign reads: "Sorry Folks, Store's Closed!"
+- Another sign reads: "Temporarily Closed due to really gross water supply issues"
+The atmosphere should be melancholy and defeated - dusty surfaces, dim lighting filtering through dirty windows, equipment covered in dust sheets or just sitting unused. Show the once-lively store now empty and deteriorating.
+Corey looks exhausted and sad but resigned, his navy blue apron still on but disheveled. His posture shows defeat but also a kind of weary acceptance of the situation.
+Only Corey appears in this image - no other people, emphasizing his isolation and the emptiness of the failed dream.
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading emphasizing exhaustion and repeated failure, featuring bold outlines and flat colors. The mood should show Corey's diminishing hope as disaster strikes twice.

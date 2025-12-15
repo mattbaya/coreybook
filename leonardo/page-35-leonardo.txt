@@ -1,0 +1,21 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing THREE PANELS of increasingly elaborate career fantasies:
+**IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
+**PANEL 1 - GOLF BALL DIVER**: COREY (bald!) in full SCUBA gear at the murky bottom of a pond, surrounded by THOUSANDS of golf balls scattered everywhere. His mesh collection bag is overflowing. Confused fish swim by wondering what this human is doing down here. On the shore above, show a sign reading "LOST BALLS RECOVERED: 47,832" and frustrated golfers shaking their fists at the pond.
+**PANEL 2 - DOG YOGA INSTRUCTOR**: COREY in yoga clothes leading a CLASS OF DOGS in various poses. Show a poodle doing a perfect downward dog, a pug struggling with warrior pose (looking confused), and a golden retriever who has given up and is just lying in savasana (relaxation pose). Include a sign reading "PROFESSOR COREY'S DOGA STUDIO" and create a very zen, peaceful atmosphere.
+**PANEL 3 - FOOD TRUCK EMPIRE**: COREY wearing a crown and royal cape over his familiar apron, standing proudly before a FLEET of food trucks stretching to the horizon. Each truck should have different names like "COREY'S TACOS," "COREY'S BURRITOS," etc. The scale should be massive and impressive, showing he's built a true food empire.
+Each panel should escalate in absurdity and ambition, from the quirky individual job to the peaceful dog yoga to the massive business empire.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with distinct color palettes for each panel - underwater blues and greens, peaceful yoga studio pastels, and bright food truck festival colors. Emphasize the progression from unusual job to zen activity to business empire.

@@ -1,0 +1,37 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading for the cover of "The Chef at the Store."
+**Title Treatment:**
+At the top of the cover, display the title in large, friendly lettering:
+"The Chef at the Store"
+Below in smaller text: "Who Found So Much MORE!"
+**Main Image Composition:**
+Show the complete Wentworth family of five standing together in front of The Store at Five Corners (reference: cartoon-characters/store-cartoon.jpg):
+**Corey** (center): Completely bald, navy blue apron, warm genuine smile, one arm around Emily, one reaching toward his children
+**Emily** (beside Corey (completely bald)): Short silver pixie-cut hair, confident smile, casual but put-together clothes
+**The Super Three** (in front): All in blue Super3 t-shirts (logo reference: images/super3v3.png) with red/yellow logo:
+- **REMI**: Dark brown straight hair, standing tall and brave
+- **Oona**: Long honey blonde hair, mid-bounce with joy
+- **Zephyr**: Smallest, light brown messy hair, biggest smile
+**Background:**
+The Store at Five Corners (reference: cartoon-characters/store-cartoon.jpg) in all its glory - historic cream building with green shutters, the "Est. 1787" sign visible, glass sunroom on the left. Five roads stretching away into rolling Berkshire mountains. 
+**Visual Elements:**
+- Floating career symbols around the family (chef hat, astronaut helmet, guitar, etc.) representing infinite possibilities
+- Warm golden light surrounding the family
+- American flag on flagpole
+- Red barn visible across the intersection
+**Color Palette:**
+Warm, inviting colors with the family as the focal point against the beautiful historic New England setting.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading. The cover should radiate hope, family love, and infinite possibility.

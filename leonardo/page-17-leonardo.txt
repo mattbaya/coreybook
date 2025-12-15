@@ -1,0 +1,28 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing Emily dramatically revealing the family's brainstorm session.
+Emily (short silver hair, mischievous confident smile) dramatically produces and UNROLLS an ABSURDLY LONG LIST/SCROLL. The list should be SO long it twists and curls around the entire scene - around Corey (completely bald), around the kids, out toward the viewer, maybe even wrapping around a construction cone for comedic effect.
+The visible portions of the list show tantalizing glimpses of different careers written in a mix of Emily's neat handwriting and the kids' crayon scrawl:
+- "ASTRONAUT!" (neat writing)
+- "ROCK STAR!" (with musical notes drawn around it)
+- "CAPTAIN!" (with small boat doodle)
+- "INVENTOR!" (in crayon)
+- "PENGUIN TRAINER?" (with question mark and penguin drawing)
+The Super Three (all in blue Super3 t-shirts (logo reference: images/super3v3.png)) gather excitedly around different parts of the list, pointing at their favorite suggestions:
+- **REMI**: Dark brown straight hair, pointing decisively at one section
+- **Oona**: Long honey hair bouncing as she examines another part
+- **Zephyr**: Smallest, pointing enthusiastically at her contributions
+Corey sits down (maybe on a construction barrier or the Store's porch steps), leaning forward with genuine INTEREST and a growing smile. This sets up the fantasy sequences to come - the family brainstorm session begins!
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with the absurdly long list as a major visual element, emphasizing family collaboration and growing excitement about possibilities, featuring bold outlines and flat colors.

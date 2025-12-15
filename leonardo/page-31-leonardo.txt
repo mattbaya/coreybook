@@ -1,0 +1,20 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing TWO PANELS of modern media careers:
+**TOP PANEL - PODCASTER**: COREY (bald!) in a professional recording studio wearing big headphones, sitting across from an ACTUAL CAT at matching microphones. The cat should look completely bored and unimpressed (as cats always do). Show the podcast title "CONVERSATIONS WITH WHISKERS" and a download counter reading "10 MILLION LISTENERS." Include visible sound waves emanating from the mics to show they're recording.
+**BOTTOM PANEL - TIKTOK STAR**: COREY attempting a silly viral dance with a phone propped up to record him. He should look confused by the dance moves but fully committed to the performance. Surround him with flying SPATULAS and cooking equipment representing his sponsorship deals. Include floating hearts and likes, plus a "VIRAL!" stamp indicator. The scene should capture the absurdity of social media fame.
+Both panels should show Corey embracing modern digital media with his characteristic enthusiasm, even when the concepts are slightly outside his comfort zone (especially trying to interview an uninterested cat and learning viral dances).
+The contrast between serious podcast production and silly TikTok content should be humorous, showing the range of modern content creation opportunities.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with bold, dynamic lines. Top panel in professional podcast blues/grays, bottom panel in bright TikTok-style neon colors with lots of movement and digital effects like hearts and likes floating around.

@@ -1,0 +1,25 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing a warm PAUSE after the career chaos - a return to what really matters.
+**MAIN FOCUS**: COREY (bald!) looking at his family with new eyes, tears of JOY forming as he has an emotional realization. He should be turning away from all the career possibilities to focus completely on his family.
+**THE FAMILY UNIT**: All five together in a warm, loving composition:
+- **EMILY** (short silver/gray pixie hair) with the light catching her hair, showing a knowing smile, her hand gently placed on Corey (completely bald)'s arm
+- **Remi with dark brown straight hair, blue Super3 shirt) standing with arms crossed confidently
+- **OONA** (long honey blonde hair, blue Super3 shirt) glowing and bouncing with natural joy
+- **ZEPHYR** (light brown messy hair, blue Super3 shirt) looking up at her dad with pure adoration, still clutching her "GOO" drawing
+**ATMOSPHERE**: The background should fade the career chaos into soft, warm golden light. This is a 100% FAMILY PORTRAIT moment - the focus entirely on love, support, and connection. The lighting should be golden hour warm, emphasizing that this family is Corey's true foundation.
+**ZEPHYR'S DRAWING**: Still visible in her hand, labeled "GOO" - a sweet callback to her innocent suggestion while showing she's part of this loving support system.
+The overall mood should be emotional clarity - after all the wild possibilities, the real treasure is right here with his family.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with warm, golden lighting and soft focus around the edges. The family should be rendered in warm, loving colors that emphasize connection and support. This is the emotional center of the entire series.

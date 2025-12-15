@@ -1,0 +1,31 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing Oona's sea captain fantasy sequence.
+The main focus is CAPTAIN COREY (still completely bald!) at the helm of a magnificent sailing ship. He wears a classic navy captain's uniform with brass buttons, a captain's hat adorned with Seussian gold braid, and has a brass telescope at his belt. His coat should be flowing dramatically in the sea breeze.
+Corey is actively SINGING with his mouth wide open, one hand confidently on the ship's wheel. Musical staff and notes should flow from his mouth, with visible lyrics: "What shall we DO with a DRUNKEN SAILOR?" and "Early in the morning!"
+The ship should be grand and detailed with:
+- Full billowing sails catching the wind
+- Proper rigging and maritime details
+- A diverse crew of sailors singing along enthusiastically
+- Crew members holding mugs of grog (clearly root beer for family-friendliness!)
+- Everyone joining in the maritime song with visible musical enjoyment
+The ocean setting includes:
+- Sparkling blue waters with Seussian wave patterns
+- Happy dolphins leaping alongside the ship
+- A distant tropical island with palm trees on the horizon
+- Perfect sailing weather with seabirds following
+Show OONA (long honey blonde hair, blue Super3 t-shirt) in the corner making a captain pose herself, shouting with cheer about this nautical adventure idea.
+The scene should capture the romance and adventure of the high seas, with the traditional "Drunken Sailor" sea shanty creating a musical, joyful atmosphere.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with nautical blues and ocean colors, emphasizing the musical nature of the scene with flowing musical notes and the grand adventure of seafaring life, featuring bold outlines and flat colors.

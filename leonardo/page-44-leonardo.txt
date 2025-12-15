@@ -1,0 +1,24 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing THE TACKLE-HUG - a gloriously chaotic family pile-on.
+**THE CHAOS**: The Super Three have LAUNCHED themselves at Corey in what's less of a hug and more of a loving tackle! Show arms and legs everywhere in wonderful confusion. One of the kids' blue Super3 t-shirts should be visible upside-down in the chaos.
+**EACH KID'S APPROACH**:
+- **Remi with dark brown straight hair) grabbed on tight with a fierce, proud grin
+- **OONA** (long honey blonde hair) jumped on with her hair flying, laughing with pure joy
+- **ZEPHYR** (light brown messy hair) climbing her dad like a tree, probably shouting with excitement
+**COREY'S REACTION**: COREY (bald!) laughing out loud with the biggest, most genuine joy - "what a glorious sight!" He should be staggering slightly from the impact but wrapping his arms around all of them, completely delighted by this loving assault.
+**THE FEELING**: This is pure joy, pure chaos, pure family love. The kids are celebrating his transformation and newfound confidence with an explosion of physical affection. It should feel like the most natural, wonderful response to a parent figuring out that everything is going to be okay.
+**VISUAL ENERGY**: Maximum movement and joy - hair flying, shirts twisted, arms everywhere, huge smiles, complete loving mayhem.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with bold, dynamic movement lines showing the impact and chaos of the tackle-hug. Bright, celebratory colors emphasizing joy and family connection. The composition should feel energetic and slightly off-balance in the best possible way.

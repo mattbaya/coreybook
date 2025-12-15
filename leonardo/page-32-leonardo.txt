@@ -1,0 +1,21 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing multiple tech career fantasies:
+**TOP PANEL - PRO GAMER**: COREY (bald!) at an ESPORTS CHAMPIONSHIP wearing a gaming headset and team jersey reading "CHEF_DADDY_420." Giant screens show intense game action, energy drinks are scattered everywhere, and a "WORLD CHAMPION" trophy awaits. THE SUPER THREE (blue Super3 t-shirts) are in the audience holding "GO DAD!" signs and cheering enthusiastically.
+**BOTTOM - SPLIT PANEL**: 
+**Left - DRONE PILOT**: COREY at a control station wearing aviator goggles on his bald head, piloting a fleet of delivery drones across the sky. One drone should be accidentally dropping a package into a swimming pool as a humorous mishap.
+**Right - PROMPT ENGINEER**: COREY at a sleek computer setup typing commands, with an AI robot generating wonderfully weird outputs like cats riding unicorns and poetry about cheese. Include the title "PROFESSIONAL ROBOT WHISPERER" to emphasize this emerging tech career.
+All three scenarios should show Corey mastering different aspects of modern technology - competitive gaming, drone operation, and AI direction. The mood should be exciting and forward-looking, showing how technology creates new career possibilities.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with bright, high-tech color schemes - gaming arena blues and neons, sky blues for drone operation, and futuristic metallics for the AI setup. Include lots of technological details with bold outlines and flat colors.

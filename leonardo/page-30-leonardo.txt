@@ -1,0 +1,25 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing Corey's lawyer fantasy in a dramatic courtroom setting.
+The main focus is LAWYER COREY (bald!) in a sharp suit, pointing dramatically at the defendant's table where EVIL CORPORATE EXECUTIVES cower. These villains should look cartoonish with money bag heads and suits made of dollar bills, representing mega-corporation greed.
+Behind Corey: a line of GRATEFUL CLIENTS - chefs in aprons and small business owners looking relieved and thankful for his legal representation.
+Key courtroom elements:
+- Judge's nameplate reading "JUSTICE"
+- Legal books on Corey's table: "FIGHTING THE POWER" and "LEASES FOR DUMMIES"
+- A prominent business card: "COREY WENTWORTH, ESQ." in fancy script lettering
+- A scoreboard showing "LITTLE GUYS: 47 / MEGA CORPS: 0"
+The best detail: OONA (long honey blonde hair, blue Super3 t-shirt) wearing a tiny judge's wig and robes, seriously banging an oversized gavel from the judge's bench, fully committed to her role in this fantasy.
+The scene should capture the David vs. Goliath energy of a small-town lawyer taking on corporate power and winning. Corey looks confident and principled, fighting for justice with the backing of the community.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with dramatic courtroom lighting, bold contrast between the good guys (warm colors) and corporate villains (cold money-greens), and exaggerated expressions emphasizing the moral victory theme.

@@ -1,0 +1,26 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading with two main focal points:
+**PRIMARY FOCUS - Emily and Corey**: 
+Emily steps forward into the center of the image. Her SHORT, STYLISH SILVER/GRAY PIXIE-CUT HAIR is very distinctive and catches the light beautifully. She reaches out to take Corey (completely bald)'s hands, looking into his eyes with love, confidence, and absolute faith in him.
+Her smile should be RADIANT - the text says "like the sun" so she could literally have subtle sun-ray effects glowing around her, with warm yellow light emanating from her presence. She's dressed casually but looks strong and sure.
+Corey's face shows the first real smile since the early success pages - small but genuine, like dawn breaking after a long night. The construction chaos fades into soft focus behind them because Emily is ALL that matters in this moment.
+**SECONDARY FOCUS - The Super Three's Entrance**:
+THE SUPER THREE burst into the frame with SPECTACULAR energy! All three wear BLUE T-SHIRTS with the SUPER3 LOGO prominently displayed (red and yellow red diamond shield with yellow '3' with "3"). They might have added small capes for extra heroic effect.
+- **REMI**: Dark brown straight hair flying, leading charge with fists pumped, brave determined expression
+- **OONA**: Long light brown/honey hair bouncing as she literally JUMPS (airborne), bright and energetic, arms wide  
+- **ZEPHYR**: Smallest but mouth WIDEST OPEN in joyful SHOUT, running with maximum tiny-person energy, clearly the loudest
+Motion lines, stars, and excitement effects should surround them as they converge like a loving superhero rescue team.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with warm colors flooding the scene, emphasizing family love and the return of hope, featuring bold outlines and flat colors.

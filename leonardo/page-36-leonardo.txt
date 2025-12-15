@@ -1,0 +1,22 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing THREE PANELS of wonderfully weird REAL jobs:
+**IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
+**IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
+**PANEL 1 - WATER SLIDE TESTER**: COREY (bald!) ZOOMING down an enormous, colorful, impossibly twisting water slide with the biggest grin, arms raised up in pure joy. He's wearing a soaked safety vest labeled "SLIDE QUALITY CONTROL" and holding a waterlogged clipboard. Water splashes everywhere as he shouts "WHEEEEE!" The slide should be fantastically elaborate and fun-looking.
+**PANEL 2 - NETFLIX TAGGER**: COREY in pajamas on a cozy couch surrounded by snacks and multiple screens, typing content tags like "EMOTIONAL," "QUIRKY," and "WILL MAKE YOU CRY." Include a title reading "PROFESSIONAL BINGE-WATCHER." The setup should look like the ultimate dream job for TV lovers - getting paid to watch and categorize shows.
+**PANEL 3 - LINE-STANDER**: COREY in a professional business suit standing in an extremely long line, looking bored but maintaining professional composure. Include a sign reading "LINE-STANDING SERVICES - $50/HR." Show many other people in the line to emphasize how long he's been standing there.
+Each panel should capture a different kind of unusual but real job opportunity. The water slide should be pure joy, Netflix tagging should look cozy and relaxed, and line-standing should emphasize the dedication required for this surprisingly lucrative service.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading with bright, contrasting colors for each panel - water slide blues and splash whites, cozy Netflix oranges and browns, and business line-standing grays and blues. Each panel should have its own distinct energy and mood.
