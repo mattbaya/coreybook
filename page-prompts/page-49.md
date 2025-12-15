@@ -2,39 +2,43 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### THE FAMILY (BECKONING THE READER)
-- **Position**: Visible through or beside the golden doorway
-- **Energy**: Smiling and BECKONING the reader to come through
-- **COREY**: Bald head visible, gesturing "come on!" with welcoming arms
-- **EMILY**: Short silver/gray pixie hair, waving warmly to the reader
-- **SUPER THREE**: All jumping excitedly, inviting the reader to join them
-- **Mood**: Inclusive, welcoming, breaking the fourth wall with love
+### THE QUESTION MARK (CENTER OF PAGE)
+- **Design**: Big, beautiful QUESTION MARK made of golden light and stars
+- **Colors**: Swirling rainbow colors throughout the symbol
+- **Energy**: NOT ominous but EXCITING - the best punctuation mark!
+- **Symbolism**: Infinite possibility, the joy of not knowing what's next
+- **Style**: Glowing, magical, celebratory rather than uncertain
 
-### THE GOLDEN DOOR
-- **Design**: Large OPEN DOOR with brilliant golden light pouring through
-- **Symbolism**: Door to the future, door to "what's next," portal to possibility
-- **Light**: Warm, inviting, representing hope and new beginnings
-- **Position**: Center of the image, clearly the focal point
-- **Message**: This is the way forward, and everyone is invited
+### CAREER COREYS (ORBITING LIKE PLANETS)
+- **Formation**: Dozens of career Coreys orbiting the question mark like a solar system
+- **Style**: Translucent/ghostly but joyful, representing all possibilities
+- **Variety**: ALL the different career Coreys from the entire series
+- **Movement**: Swirling like planets in a galaxy of futures
+- **Include**: Astronaut, punk rocker, captain, crypto, LEGO, actor, lawyer, gamer, chef, plus all others
 
-### SCATTERED ARTIFACTS (AROUND DOOR FRAME)
-- **Career Symbols**: Artifacts from the whole story journey
-- **Items**: Spatula, coffee cup, astronaut helmet, guitar, captain's hat
-- **More Items**: Fortune cookie, LEGO brick, all representing the possibilities explored
-- **Arrangement**: Scattered lovingly around the door frame like memories
-- **Message**: All the possibilities are still there, available to anyone
+### FAMILY SILHOUETTE (BOTTOM)
+- **Position**: Walking hand-in-hand toward brilliant horizon
+- **Recognition**: Clearly recognizable shapes - Corey's bald head, Emily's short hair, three kids in graduated heights
+- **Direction**: Moving toward golden path that converges from the five roads
+- **Energy**: Confident, united, walking into bright future
+- **Symbolism**: Family together facing unknown with confidence
 
-### READER ADDRESS ELEMENTS
-- **Direct Eye Contact**: Characters looking directly at viewer
-- **Invitation**: Come through this door, you can do this too
-- **Inclusivity**: This story is FOR the reader, not just about characters
-- **Encouragement**: If Corey can transform, so can anyone
+### COSMIC ELEMENTS
+- **Stars**: Stars everywhere creating magical atmosphere
+- **Horizon**: BRILLIANT golden horizon they're walking toward
+- **Paths**: The five roads converging into one golden path ahead
+- **Lighting**: Cosmic, hopeful, infinite possibility lighting
+- **Mood**: JOYFUL, INFINITE, HOPEFUL - the question mark as celebration
 
 ## PAGE TEXT
-And YOU, reading this, if YOUR store ever closes,
-If life throws you lemons (or worse—wilted roses),
-If roundabouts ruin your road into town,
-If bad water comes and your dreams start to drown...
+*Nobody knows!*
+*And that's perfectly great!*
+*The places you'll go*
+*Are the places YOU'LL make!*
+
+*With your family beside you,*
+*Through thick and through thin,*
+*Every ending's a doorway...*
 
 ## IMAGE PROMPT
 
@@ -50,28 +54,21 @@ If bad water comes and your dreams start to drown...
 
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
-Create a modern 2D cartoon illustration with cel-shading BREAKING THE FOURTH WALL - directly addressing and welcoming the reader.
+Create a modern 2D cartoon illustration with cel-shading celebrating the INFINITE POSSIBILITY of the unknown future.
 
-**THE CENTRAL DOOR**: Show a large OPEN DOOR with brilliant golden light pouring through - this represents the door to the future, the door to "what's next." The light should be warm and inviting, pulling the viewer toward possibility.
+**THE CENTER**: A big, beautiful QUESTION MARK made of golden light, stars, and swirling rainbow colors. This question mark should NOT be ominous - it should be EXCITING! It represents the joy of infinite possibility and should feel like the best punctuation mark ever created.
 
-**THE FAMILY INVITATION**: The family should be visible through or beside the door, all smiling and BECKONING the reader:
-- **COREY** (bald!) gesturing "come on!" with welcoming, encouraging arms
-- **EMILY** (short silver hair) waving warmly to the reader
-- **THE SUPER THREE** (blue Super3 shirt (logo reference: images/super3v3.png)s) jumping excitedly, clearly inviting the reader to join their adventure
+**ORBITING POSSIBILITIES**: Around the question mark, show hints of all the career Coreys orbiting like planets in a constellation:
+- Astronaut Corey floating in space
+- Punk rocker Corey with guitar (subtle "Big Dog" reference)
+- Sea captain, crypto mogul, LEGO engineer, actor, politician, lawyer, journalist, gamer, chef (still might cook again!), plus ALL the others
+- These should be translucent and dreamlike, representing potential futures
 
-**SCATTERED MEMORIES**: Around the door frame, lovingly scatter artifacts from the entire story journey:
-- Spatula (from chef days)
-- Coffee cup (from the Store)
-- Astronaut helmet (from space dreams)
-- Guitar (from rock star fantasy, maybe with subtle "Big Dog" reference)
-- Captain's hat (from sea captain dreams)
-- Fortune cookie (from career possibilities)
-- LEGO brick (from engineering dreams)
-- Other career symbols representing all the possibilities explored
+**THE FAMILY SILHOUETTE**: At the bottom, show the SILHOUETTE of the family of five - clearly recognizable (Corey's bald head, Emily's short hair, three kids in graduated heights) walking hand-in-hand toward a BRILLIANT HORIZON. Show the five roads converging into one golden path ahead.
 
-**DIRECT ADDRESS**: The characters should be looking directly at the VIEWER, making it clear this message is FOR them. The invitation should feel personal and inclusive.
+**COSMIC ATMOSPHERE**: Fill the scene with stars everywhere, creating a magical, cosmic feeling. The overall mood should be JOYFUL, INFINITE, HOPEFUL.
 
-**THE MESSAGE**: "This door is for YOU too. If Corey can transform and find hope, so can you. Come through - the future is waiting."
+**THE MESSAGE**: "Nobody knows what's next - and that's perfectly great!" The question mark represents excitement about the unknown, not fear of it.
 
 
 
@@ -81,4 +78,4 @@ Create a modern 2D cartoon illustration with cel-shading BREAKING THE FOURTH WAL
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with brilliant golden light as the dominant feature. The door should feel like a portal to possibility, and the family should radiate warmth and inclusion. This is the moment the story becomes interactive and personal.
+**Art Style**: Modern 2D cartoon style with cel-shading with cosmic colors - brilliant golds, star-filled blues, rainbow swirls in the question mark. The family should be small but clearly walking confidently toward an unlimited bright future. The overall feeling should be wonder and excitement about unlimited possibilities.

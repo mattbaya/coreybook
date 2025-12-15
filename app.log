@@ -1,0 +1,93 @@
+{"pid":7,"type":"jupyter","level":40,"msg":"  warn(","time":"2025-12-13T23:54:26.257Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"[W 2025-12-13 23:54:26.256 ServerApp] ServerApp.token config is deprecated in 2.0. Use IdentityProvider.token.","time":"2025-12-13T23:54:26.259Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"ServerApp.iopub_data_rate_limit config is deprecated in 2.0. Use ZMQChannelsWebsocketConnection.iopub_data_rate_limit.","time":"2025-12-13T23:54:26.259Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/etc/jupyter/jupyter_server_config.json","time":"2025-12-13T23:54:26.705Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_server_config.d/google.colab._serverextension.json","time":"2025-12-13T23:54:26.707Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_server_config.d/ipyparallel.json","time":"2025-12-13T23:54:26.707Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_server_config.d/jupyter_server_terminals.json","time":"2025-12-13T23:54:26.707Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_server_config.d/jupytext.json","time":"2025-12-13T23:54:26.707Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_server_config.d/nbclassic.json","time":"2025-12-13T23:54:26.707Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_server_config.d/notebook_shim.json","time":"2025-12-13T23:54:26.707Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_server_config.d/panel-client-jupyter.json","time":"2025-12-13T23:54:26.707Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_server_config.json","time":"2025-12-13T23:54:26.707Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/etc/jupyter/jupyter_server_config.d/google.colab.json","time":"2025-12-13T23:54:26.711Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/etc/jupyter/jupyter_server_config.d/nbclassic.json","time":"2025-12-13T23:54:26.711Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/etc/jupyter/jupyter_server_config.json","time":"2025-12-13T23:54:26.712Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/root/.local/etc/jupyter/jupyter_server_config.json","time":"2025-12-13T23:54:26.715Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/root/.jupyter/jupyter_server_config.json","time":"2025-12-13T23:54:26.716Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"/usr/local/lib/python3.12/dist-packages/jupyter_events/schema.py:68: JupyterEventsVersionWarning: The `version` property of an event schema must be a string. It has been type coerced, but in a future version of this library, it will fail to validate. Please update schema: https://events.jupyter.org/jupyter_server/contents_service/v1","time":"2025-12-13T23:54:26.720Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"  validate_schema(_schema)","time":"2025-12-13T23:54:26.720Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"/usr/local/lib/python3.12/dist-packages/jupyter_events/schema.py:68: JupyterEventsVersionWarning: The `version` property of an event schema must be a string. It has been type coerced, but in a future version of this library, it will fail to validate. Please update schema: https://events.jupyter.org/jupyter_server/gateway_client/v1","time":"2025-12-13T23:54:26.727Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"  validate_schema(_schema)","time":"2025-12-13T23:54:26.727Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"/usr/local/lib/python3.12/dist-packages/jupyter_events/schema.py:68: JupyterEventsVersionWarning: The `version` property of an event schema must be a string. It has been type coerced, but in a future version of this library, it will fail to validate. Please update schema: https://events.jupyter.org/jupyter_server/kernel_actions/v1","time":"2025-12-13T23:54:26.729Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"  validate_schema(_schema)","time":"2025-12-13T23:54:26.729Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Extension package ipyparallel took 0.1002s to import","time":"2025-12-13T23:54:26.837Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"A `_jupyter_server_extension_points` function was not found in ipyparallel. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.","time":"2025-12-13T23:54:26.838Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Extension package jupyterlab_jupytext took 0.4728s to import","time":"2025-12-13T23:54:27.326Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"A `_jupyter_server_extension_points` function was not found in nbclassic. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.","time":"2025-12-13T23:54:27.342Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Extension package panel.io.jupyter_server_extension took 1.5477s to import","time":"2025-12-13T23:54:28.892Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"google.colab ","time":"2025-12-13T23:54:28.894Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"google.colab._serverextension ","time":"2025-12-13T23:54:28.894Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"ipyparallel ","time":"2025-12-13T23:54:28.895Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"jupyter_server_terminals ","time":"2025-12-13T23:54:28.903Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"jupyterlab_jupytext ","time":"2025-12-13T23:54:28.904Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"nbclassic ","time":"2025-12-13T23:54:28.913Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Writing Jupyter server cookie secret to /root/.local/share/jupyter/runtime/jupyter_cookie_secret","time":"2025-12-13T23:54:28.917Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/root/.jupyter/jupyter_notebook_config.json","time":"2025-12-13T23:54:28.920Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/etc/jupyter/jupyter_notebook_config.json","time":"2025-12-13T23:54:28.921Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_notebook_config.d/ipyparallel.json","time":"2025-12-13T23:54:28.922Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_notebook_config.d/jupytext.json","time":"2025-12-13T23:54:28.922Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_notebook_config.d/panel-client-jupyter.json","time":"2025-12-13T23:54:28.922Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/local/etc/jupyter/jupyter_notebook_config.json","time":"2025-12-13T23:54:28.922Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/usr/etc/jupyter/jupyter_notebook_config.json","time":"2025-12-13T23:54:28.924Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/root/.local/etc/jupyter/jupyter_notebook_config.json","time":"2025-12-13T23:54:28.926Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    \t/root/.jupyter/jupyter_notebook_config.json","time":"2025-12-13T23:54:28.926Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"notebook_shim ","time":"2025-12-13T23:54:28.926Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"panel.io.jupyter_server_extension ","time":"2025-12-13T23:54:28.926Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"Customizing authentication via ServerApp.login_handler_class=<class 'google.colab._login_handler.ColabLoginHandler'> is deprecated in Jupyter Server 2.0. Use ServerApp.identity_provider_class. Falling back on legacy authentication.","time":"2025-12-13T23:54:29.132Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"notebook_shim ","time":"2025-12-13T23:54:29.187Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"google.colab ","time":"2025-12-13T23:54:29.189Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"google.colab server extension initialized on gpu-t4-s-2kuo570atpl0f.","time":"2025-12-13T23:54:29.195Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"google.colab._serverextension ","time":"2025-12-13T23:54:29.195Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Loading IPython parallel extension","time":"2025-12-13T23:54:29.202Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"ipyparallel ","time":"2025-12-13T23:54:29.203Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"jupyter_server_terminals ","time":"2025-12-13T23:54:29.206Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"[Jupytext Server Extension] Deriving an AsyncTextFileContentsManager from AsyncLargeFileManager","time":"2025-12-13T23:54:29.207Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"jupyterlab_jupytext ","time":"2025-12-13T23:54:29.208Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"nbclassic ","time":"2025-12-13T23:54:29.226Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"panel.io.jupyter_server_extension ","time":"2025-12-13T23:54:29.230Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Serving notebooks from local directory: /","time":"2025-12-13T23:54:29.230Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Jupyter Server 2.14.0 is running at:","time":"2025-12-13T23:54:29.230Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"http://172.28.0.12:9000/","time":"2025-12-13T23:54:29.231Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"    http://127.0.0.1:9000/","time":"2025-12-13T23:54:29.231Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).","time":"2025-12-13T23:54:29.231Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - Debugger warning: It seems that frozen modules are being used, which may","time":"2025-12-13T23:55:11.602Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off","time":"2025-12-13T23:55:11.602Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - to python to disable frozen modules.","time":"2025-12-13T23:55:11.602Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.","time":"2025-12-13T23:55:11.602Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"/usr/local/lib/python3.12/dist-packages/jupyter_events/schema.py:68: JupyterEventsVersionWarning: The `version` property of an event schema must be a string. It has been type coerced, but in a future version of this library, it will fail to validate. Please update schema: https://events.jupyter.org/jupyter_server/kernel_actions/v1","time":"2025-12-13T23:55:11.903Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"  validate_schema(_schema)","time":"2025-12-13T23:55:11.903Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Kernel started: 21fdc280-248c-4974-83c0-b9850b0cf640","time":"2025-12-13T23:55:11.908Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - Debugger warning: It seems that frozen modules are being used, which may","time":"2025-12-13T23:55:12.288Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off","time":"2025-12-13T23:55:12.288Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - to python to disable frozen modules.","time":"2025-12-13T23:55:12.288Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.","time":"2025-12-13T23:55:12.289Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"Connecting to kernel 21fdc280-248c-4974-83c0-b9850b0cf640.","time":"2025-12-13T23:55:13.359Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).","time":"2025-12-13T23:55:13.364Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"    Setting websocket_ping_timeout=30000","time":"2025-12-13T23:55:13.364Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"2025-12-13 23:59:07.280439: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:467] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered","time":"2025-12-13T23:59:07.280Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR","time":"2025-12-13T23:59:07.621Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"E0000 00:00:1765670347.621022     328 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered","time":"2025-12-13T23:59:07.621Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"E0000 00:00:1765670347.714775     328 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered","time":"2025-12-13T23:59:07.714Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"W0000 00:00:1765670348.385083     328 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.","time":"2025-12-13T23:59:08.386Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"W0000 00:00:1765670348.385139     328 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.","time":"2025-12-13T23:59:08.386Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"W0000 00:00:1765670348.385143     328 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.","time":"2025-12-13T23:59:08.386Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"W0000 00:00:1765670348.385147     328 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.","time":"2025-12-13T23:59:08.386Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"2025-12-13 23:59:08.484065: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.","time":"2025-12-13T23:59:08.484Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.","time":"2025-12-13T23:59:08.485Z","v":0}
+{"pid":7,"type":"jupyter","level":30,"msg":"AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports","time":"2025-12-14T00:10:41.890Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"kernel 21fdc280-248c-4974-83c0-b9850b0cf640 restarted","time":"2025-12-14T00:10:41.891Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - Debugger warning: It seems that frozen modules are being used, which may","time":"2025-12-14T00:10:43.236Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off","time":"2025-12-14T00:10:43.237Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - to python to disable frozen modules.","time":"2025-12-14T00:10:43.237Z","v":0}
+{"pid":7,"type":"jupyter","level":40,"msg":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.","time":"2025-12-14T00:10:43.237Z","v":0}
