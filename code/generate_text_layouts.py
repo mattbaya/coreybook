@@ -61,29 +61,30 @@ class TextLayoutGenerator:
         words = clean_text.split()
         word_list = ", ".join([f'"{word}"' for word in words])
         
-        prompt = f"""TYPOGRAPHY ACCURACY MISSION: Create text art with PERFECT spelling and NO REPETITION.
+        prompt = f"""ULTRA-SIMPLE TEXT RENDERING: Create basic, readable text with ZERO errors.
 
-EXACT TEXT TO RENDER: "{clean_text}"
+COPY THIS TEXT EXACTLY, LETTER BY LETTER: "{clean_text}"
 
-REQUIRED WORDS (each must appear exactly ONCE): {word_list}
+ULTRA-BASIC REQUIREMENTS:
+- Plain black text on white background
+- Simple Arial or Helvetica font
+- Large size (minimum 24pt)
+- No fancy formatting or decoration
+- No colors except black text
+- No effects, shadows, or embellishments
+- Center the text on the page
+- Use plenty of white space
 
-Design as beautiful typography:
-- Hand-lettered children's book style
-- Warm colors (soft oranges, yellows, greens)
-- Simple decorative elements (stars, hearts, swirls)
-- Clean, readable layout
-- Cream or light background
+ACCURACY IS EVERYTHING:
+- Copy every single letter exactly as shown
+- Copy every punctuation mark exactly  
+- Copy every space exactly
+- Preserve capitalization exactly
+- Do not add any extra text
+- Do not remove any text
+- Do not change the order of words
 
-CRITICAL SPELLING RULES:
-- Every letter must be exactly correct
-- No extra or missing letters
-- No made-up words
-- Punctuation must match exactly
-- Word order must be preserved
-- NO REPETITION: Each word/phrase should appear only ONCE
-- Do not duplicate any text elements
-
-Focus on accuracy over decoration. Better to have plain, correct text than fancy, wrong text."""
+RENDER AS BASIC TYPOGRAPHY ONLY - like a simple document or sign."""
         
         return prompt
 
