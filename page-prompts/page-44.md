@@ -1,8 +1,8 @@
 # Page 44 - FULL FAMILY EMBRACE
 
 ## PAGE TEXT
-And Emily joined in and whispered, "My dear,
-Whatever comes next, I'll be RIGHT here."
+And Emily joined in and whispered, "You know,
+Whatever comes next, we'll be RIGHT here."
 For Corey had something no setback could break:
 A family who loved him for EVERYONE'S sake.
 
