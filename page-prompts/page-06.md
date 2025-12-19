@@ -2,40 +2,37 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY'S HANDS
-- **Physical**: Just his hands visible holding the iPad
-- **Details**: Working hands, maybe some flour dusting, wedding ring visible
-- **Position**: Holding iPad horizontally with both hands
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### THE IPAD SCREEN (MAIN FOCUS)
-- **Display**: Multiple review sites open in tabs or split screen
-- **Central Review**: "Finally someone who knows what they're doing!" in LARGE font
-- **Layout**: Reviews cascading around the central quote
-- **Visual Elements**: Star ratings, thumbs up icons, review site logos
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### SETTING
-- **Location**: Close-up view, maybe kitchen counter visible at edges
-- **Time**: Continuation of previous scene, same golden hour lighting
-- **Props**: Maybe coffee cup edge visible, or order tickets in background
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-The tablet glowed bright with review after review,
-Each one more delightful than the last one he knew!
-In the center, one comment made Corey's heart sing:
-"Finally someone who KNOWS what they're doing!"
-
-Around it, more praises came flooding the screen,
-The nicest reviews that he'd ever seen!
-From "Captain of this ship" to "Best croissant in life"—
-He couldn't wait to share this with Emily, his wife!
-
-"The place is now PACKED!" wrote a forty-year neighbor,
-"Worth every penny!" praised those who would savor
-His crispy fried chicken, his sandwiches divine,
-His coffee, his soups—everything was just fine!
-
-*QUOTES FROM REAL REVIEWS
-
+'Beautifully composed sandwiches!'
+'Food obsessed in the best way!'
+typed another neighbor with a smile!
+'What a find!'
+The praise for Corey floated everywhere!
+His phone buzzed and ping with each new review,
+And cars overflowed his tiny parking lot too!
+'Great baked goods!' 'Crispy chicken sandwich!'
+'Worth the stop!' The five-star ratings just wouldn't stop!
+And Corey stood beaming in his kitchen so bright,
+Like bathed in holographic light.
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -51,51 +48,48 @@ His coffee, his soups—everything was just fine!
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing a CLOSE-UP VIEW of an iPad displaying multiple glowing reviews.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-**Main Composition:**
-Show only Corey's hands holding a large iPad horizontally. His hands should show he's a working chef - maybe slight flour dusting, clean but worked hands, wedding ring on left hand. The iPad fills most of the frame.
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-**iPad Screen Layout:**
-The screen should show a review aggregator or multiple review site tabs. In the DEAD CENTER of the screen, in the LARGEST FONT:
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-**"Finally someone who KNOWS what they're doing!"**
-(This should be the dominant text element, perhaps with a golden glow or highlight box around it)
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-**Surrounding Reviews (various sizes, creating depth):**
-Arranged around the central quote like a constellation:
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-Upper area:
-- "Chef Corey is awesome!" ★★★★★
-- "Captain of this amazingly run ship" ★★★★★
-- "Best croissant I've had in my life" ★★★★★
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
 
-Left side:
-- "For the first time in my almost 40 years..." ★★★★★
-- "The place is packed!" 
-- "One of THE BEST breakfast sandwiches" ★★★★★
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
 
-Right side:
-- "Crispy chicken is a must have!" ★★★★★
-- "Food obsessed in the best way" ★★★★★
-- "Ridiculously good!" ★★★★★
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
 
-Lower area:
-- "Great baked goods!" ★★★★★
-- "Service with a smile" ★★★★★
-- "Worth the stop!" ★★★★★
-- "What a find!" ★★★★★
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
 
-**Visual Details:**
-- Include small review site logos (Yelp, Google, etc.)
-- Show "215 reviews • 4.4 stars" type headers
-- Add floating heart reactions, thumbs up icons
-- Some reviews partially visible at edges (scrollable feel)
-- Soft glow from screen illuminating Corey's hands
-- Maybe notification badges showing "New Review!" 
-
-**Background:**
-Slightly blurred kitchen counter edge, maybe a coffee cup partially visible, creating intimate close-up feel.
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -105,4 +99,4 @@ Slightly blurred kitchen counter edge, maybe a coffee cup partially visible, cre
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading, focusing on the glowing screen as the light source, creating dramatic lighting on Corey's hands. The central review should be impossible to miss - the clear hero quote of the scene.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

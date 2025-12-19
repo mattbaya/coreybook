@@ -2,43 +2,30 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (in FANTASY SEQUENCE)
-- **Physical**: Still completely BALD head but wearing a spiked mohawk WIG
-- **Costume**: BLACK LEATHER JACKET with silver studs and spikes
-- **Activity**: SHREDDING an electric guitar that shoots lightning and flames
-- **Expression**: Rock star intensity, head banging, completely absorbed in the music
-- **Position**: Center stage under dramatic spotlights
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### REMI (narrator/suggester)
-- **Physical**: Dark curly hair, age 11
-- **Clothing**: Blue T-shirt with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png)
-- **Expression**: Shouting with glee, clearly excited about this punk rock idea
-- **Activity**: Air guitaring along with the fantasy
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### THE SUPER THREE AS BACKUP BAND
-- **All wearing**: Tiny leather jackets OVER their blue Super3 t-shirts
-- **Remi**: On drums, drumsticks flying
-- **Oona**: Bass guitar, honey hair flying as she rocks out
-- **Zephyr**: Keyboard/synthesizer, despite being smallest, playing with maximum energy
-
-### CONCERT SETTING
-- **Stage**: Massive, elevated platform with dramatic lighting
-- **Lights**: NEON spotlights in pink, blue, green shooting everywhere
-- **Crowd**: Silhouetted audience going absolutely WILD
-- **Sound Effects**: Lightning bolts and flame effects shooting from Corey's guitar
-
-### VISUAL EASTER EGG - "Big Dog" (never mentioned in text)
-- **Above Stage**: "Big Dog" in GIANT FLAMING LETTERS
-- **Drum Kit**: "Big Dog" logo prominently displayed
-- **Concert Posters**: "Big Dog" posters visible in background
-- **Merchandise**: "Big Dog" t-shirts being waved by crowd
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"Or a PUNK ROCK GUITARIST!" shouted Remi with glee,
-"Up on stage with the lights and the crowd screaming 'WHEEEE!'
-With your spiked leather jacket and mohawk so tall,
-You'd ROCK every stage! You'd ROCK one and all!"
-
+And Emily laughed and she pulled out a list—
+A list that was long, that went TWIST after TWIST!
+"We brainstormed," she grinned, "all the things you could BE!
+So sit down and listen—from US, your family!"
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -54,27 +41,48 @@ You'd ROCK every stage! You'd ROCK one and all!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Remi's punk rock fantasy sequence.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-The main focus is PUNK ROCK COREY center stage, still completely bald but wearing a dramatic spiked MOHAWK WIG. He's dressed in a BLACK LEATHER JACKET covered with silver studs and spikes, SHREDDING an electric guitar that literally shoots LIGHTNING BOLTS and FLAMES!
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-The massive concert stage should feature:
-- Dramatic NEON LIGHTS in pink, blue, and green shooting in all directions
-- A wild crowd in silhouette going absolutely crazy
-- THE SUPER THREE as his backup band, wearing tiny leather jackets OVER their blue Super3 t-shirts:
-  - Remi on drums with sticks flying
-  - Oona on bass, honey hair whipping as she rocks out  
-  - Zephyr at keyboards, tiny but playing with maximum energy
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-**IMPORTANT VISUAL EASTER EGG** - Include "Big Dog" branding throughout but NEVER mention it in the text:
-- "Big Dog" in GIANT FLAMING LETTERS above the stage
-- "Big Dog" logo prominently on the drum kit
-- "Big Dog" concert posters visible in the background
-- Crowd members waving "Big Dog" merchandise
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-Sound effects should be visible - musical notes, lightning, flames, and "ROCK!" sound effects bursting from the scene.
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-Show enthusiastic REMI (dark brown straight hair, blue Super3 shirt) in the corner, shouting with glee and air guitaring along with his suggested fantasy.
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
+
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -84,4 +92,4 @@ Show enthusiastic REMI (dark brown straight hair, blue Super3 shirt) in the corn
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading but with rock concert energy - bold outlines, clean prominent dark lines, and electric colors (hot pinks, electric blues, flame oranges) to capture the high-energy punk rock atmosphere.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

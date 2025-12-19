@@ -2,42 +2,37 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (in ACTING FANTASY - FOUR PANELS)
-- **Physical**: Completely BALD head (no hair) in all four scenarios
-- **Panel 1 - "The Bear"**: Intense chef whites, shouting "YES CHEF!" with serious concentration
-- **Panel 2 - Iron Chef**: Dramatic stadium lighting, holding weird ingredient (marshmallows), flames from cooking station
-- **Panel 3 - Vampire**: Awkward in vampire costume with cape, fangs, fake blood on chin, looking uncomfortable
-- **Panel 4 - Danny Kaye**: Old Hollywood tap dancing with top hat, stars and spotlights, big theatrical smile
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### DIRECTOR (Panel 3)
-- **Activity**: Shouting "MORE SCARY!" at vampire Corey
-- **Expression**: Frustrated with Corey's non-threatening vampire performance
-- **Props**: Director's megaphone or chair
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### SUPER THREE (background supporters)
-- **Physical**: All in blue T-shirts with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png) (red red diamond shield with yellow '3' with yellow "3")
-- **Activity**: Holding "FOR YOUR CONSIDERATION" signs
-- **Expression**: Supportive of their dad's acting dreams
-- **Positioning**: Small figures cheering from the sidelines
-
-### FILM/TV PRODUCTION ELEMENTS
-- **Clapperboard**: "THE BEAR" scene marker
-- **Stadium**: Iron Chef competition setup with dramatic lighting
-- **Stage**: Old Hollywood musical theater with sparkles and spotlights
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could be an ACTOR on screens and TV!
-You could star on 'The Bear'—you'd be great, don't you see?
-Or be an IRON CHEF! Or a VAMPIRE so scary!
-If you practiced real hard, you'd be the next Danny Kaye-ry!"
-
+"You could PROGRAM COMPUTERS with the help of AI!
+Build weird little apps that calculate PI!
+Or maybe calculate PIE—'How many slices?'
+You could make websites selling spatulas at reasonable prices!"
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
-- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt  
+- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt
 - ZEPHYR: 9-year-old CAUCASIAN WHITE girl, light brown shoulder-length hair, blue Super3 shirt
 - SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
 - STORE: Cream building with 4 white columns (reference: cartoon-characters/store-cartoon.jpg)
@@ -46,28 +41,21 @@ If you practiced real hard, you'd be the next Danny Kaye-ry!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Corey's acting fantasy in FOUR PANELS:
-
-**IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
-
-**PANEL 1 - "THE BEAR"**: COREY (bald!) in intense kitchen scene wearing chef whites, shouting "YES CHEF!" with dramatic concentration. Include a clapperboard showing "THE BEAR" and the high-stress restaurant atmosphere.
-
-**PANEL 2 - IRON CHEF**: COREY in the Iron Chef stadium with dramatic lighting and flames shooting from his cooking station. He's holding a weird ingredient (MARSHMALLOWS) and looking determined in the competition setting.
-
-**PANEL 3 - VAMPIRE**: COREY in an awkward vampire costume with cape and fangs, fake blood on his chin, but looking more goofy than scary. A frustrated director off to the side is shouting "MORE SCARY!" while Corey tries harder to look menacing but fails adorably.
-
-**PANEL 4 - DANNY KAYE**: COREY in old Hollywood musical style, tap dancing with a top hat, surrounded by stars and spotlights in classic theatrical fashion. He should look joyful and theatrical.
-
-In the background of all panels, show THE SUPER THREE (blue Super3 t-shirts) holding "FOR YOUR CONSIDERATION" signs and cheering their dad on.
-
-Each panel should capture a different acting genre while maintaining Corey's warm personality. The vampire scene should be particularly funny since he's clearly not cut out to be scary.
+Create a modern 2D cartoon illustration with cel-shading showing Corey's AI programmer fantasy sequence.
+The main focus is TECH DEVELOPER COREY (completely bald!) in a modern hoodie, sitting at a futuristic workstation with a glowing keyboard. He's surrounded by floating holographic code and AI robot assistants that look friendly and whimsical (not threatening).
+The screens around him show:
+- "PI or PIE?" app displaying both a mathematical pi symbol AND a delicious-looking pie
+- "COREY'S USED SPATULAS - Only $3.00!" website
+- A video game that looks like Minecraft but with ROUNDER blocks and DUCKS swimming around
+AI robots float nearby with speech bubbles. One should be saying "HAVE YOU TRIED TURNING IT OFF AND ON?" in a helpful but slightly confused way.
+In the background corner, show ZEPHYR (light brown messy hair, blue Super3 t-shirt) playing the duck game on a tablet, giving an enthusiastic thumbs up.
+The workspace should feel high-tech but whimsical, with floating code, multiple glowing screens, and that classic Seussian sense of organized chaos. The mood is excited innovation - Corey discovering the joy of creating with technology.
 
 
-
-
+ with bold outlines, clean prominent dark lines, and bold colors dominated by tech blues and glowing screen yellows/greens.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with exaggerated expressions, bold panel borders, and bright stage lighting effects. Each panel should have its own color palette - kitchen whites/reds, stadium blues/oranges, gothic purples/blacks, and theatrical golds/reds.
+**Art Style**: Modern 2D cartoon style with cel-shading featuring bold outlines, flat colors with cel-shading, clean prominent dark outlines, and sharp shadow edges without gradients.

@@ -2,48 +2,37 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (THREE PANEL FANTASY)
-- **Physical**: Completely BALD head (no hair) in all three scenarios
-- **Panel 1 - Golf Ball Diver**: In full SCUBA gear at murky pond bottom surrounded by thousands of golf balls
-- **Panel 2 - Dog Yoga Instructor**: In yoga clothes leading class of dogs in various poses
-- **Panel 3 - Food Truck Emperor**: Wearing crown and cape over apron, standing before fleet of trucks
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### GOLF BALL DIVING SETUP
-- **Location**: Murky pond bottom with poor visibility
-- **Equipment**: Full SCUBA diving gear, mesh bag overflowing with golf balls
-- **Wildlife**: Confused fish swimming by, wondering what he's doing
-- **Shore Sign**: "LOST BALLS RECOVERED: 47,832"
-- **Background**: Frustrated golfers on shore shaking fists at the pond
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### DOG YOGA CLASS
-- **Students**: Various dog breeds attempting yoga poses
-- **Poodle**: Executing perfect downward dog pose
-- **Pug**: Struggling with warrior pose, looking confused
-- **Golden Retriever**: Simply lying in savasana (relaxation pose)
-- **Setting**: Peaceful yoga studio with mats
-- **Sign**: "PROFESSOR COREY'S DOGA STUDIO"
-
-### FOOD TRUCK EMPIRE
-- **Fleet**: Multiple trucks stretching to the horizon
-- **Truck Names**: "COREY'S TACOS," "COREY'S BURRITOS," various other food options
-- **Corey's Outfit**: Crown and royal cape worn over his familiar apron
-- **Scale**: Empire spanning as far as the eye can see
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could dive for GOLF BALLS at the bottom of ponds!"
-
-"Or teach YOGA TO DOGS—downward dog, we're so fond!"
-
-"Or build a FOOD TRUCK EMPIRE spanning the nation!
-Serving tacos and burritos at every location!"
-
+"Or a PROFESSIONAL MATTRESS TESTER!" Remi said with a yawn,
+"You'd sleep for a living from dusk until dawn!"
+The ideas kept flowing like rivers of dreams...
+With MORE wild careers than you'd EVER have seen!
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
-- COREY: Completely BALD adult male (no hair), round face, dark olive-green apron, white shirt
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
-- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt  
+- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt
 - ZEPHYR: 9-year-old CAUCASIAN WHITE girl, light brown shoulder-length hair, blue Super3 shirt
 - SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
 - STORE: Cream building with 4 white columns (reference: cartoon-characters/store-cartoon.jpg)
@@ -51,24 +40,26 @@ Serving tacos and burritos at every location!"
 
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
-Create a modern 2D cartoon illustration with cel-shading showing THREE PANELS of increasingly elaborate career fantasies:
 
-**IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
+Create a modern 2D cartoon illustration with cel-shading showing the climax of Book 3's career brainstorming.
+**MAIN IMAGE**: MATTRESS TESTER COREY (bald!) in comfortable pajamas, sound asleep on a luxurious mattress with "ZZZ"s floating peacefully above him. Scientists in white lab coats surround the bed taking notes on clipboards marked "COMFY: ✓✓✓✓✓." A sign reads "DO NOT DISTURB - TESTING IN PROGRESS." This should clearly be the "best job ever" - getting paid to sleep!
+**Remi with dark brown straight hair, blue Super3 t-shirt) should be visible making the suggestion with a yawn, clearly inspired by his own sleepiness.
+**AROUND THE EDGES**: Create a swirling preview of MORE careers to come in Book 4! Include visual hints of:
+- Water slides with splash effects
+- Golf balls scattered about
+- Hot dogs and food items
+- Dogs in yoga poses
+- Fortune cookies
+- Mini golf windmills and obstacles
+- Other whimsical career elements
+**THE FAMILY** (Emily with short silver hair, Oona and Zephyr in Super3 shirts) should be visible watching, still bubbling with even more ideas, showing the brainstorming is nowhere near over.
+Include "TO BE CONTINUED..." text to build excitement for Book 4's even wilder career suggestions.
 
-**PANEL 1 - GOLF BALL DIVER**: COREY (bald!) in full SCUBA gear at the murky bottom of a pond, surrounded by THOUSANDS of golf balls scattered everywhere. His mesh collection bag is overflowing. Confused fish swim by wondering what this human is doing down here. On the shore above, show a sign reading "LOST BALLS RECOVERED: 47,832" and frustrated golfers shaking their fists at the pond.
 
-**PANEL 2 - DOG YOGA INSTRUCTOR**: COREY in yoga clothes leading a CLASS OF DOGS in various poses. Show a poodle doing a perfect downward dog, a pug struggling with warrior pose (looking confused), and a golden retriever who has given up and is just lying in savasana (relaxation pose). Include a sign reading "PROFESSOR COREY'S DOGA STUDIO" and create a very zen, peaceful atmosphere.
-
-**PANEL 3 - FOOD TRUCK EMPIRE**: COREY wearing a crown and royal cape over his familiar apron, standing proudly before a FLEET of food trucks stretching to the horizon. Each truck should have different names like "COREY'S TACOS," "COREY'S BURRITOS," etc. The scale should be massive and impressive, showing he's built a true food empire.
-
-Each panel should escalate in absurdity and ambition, from the quirky individual job to the peaceful dog yoga to the massive business empire.
-
-
-
-
+ with dreamy, peaceful colors for the mattress testing scene (soft blues, comfortable whites) while the swirling career previews use bright, exciting colors that hint at the chaos to come in Book 4. The overall mood should be "sweet dreams... but MORE ADVENTURES AHEAD!"
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with distinct color palettes for each panel - underwater blues and greens, peaceful yoga studio pastels, and bright food truck festival colors. Emphasize the progression from unusual job to zen activity to business empire.
+**Art Style**: Modern 2D cartoon style with cel-shading featuring bold outlines, flat colors with cel-shading, clean prominent dark outlines, and sharp shadow edges without gradients.

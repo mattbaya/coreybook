@@ -2,52 +2,39 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (CAREER OVERLOAD VICTIM)
-- **Physical**: Completely BALD head (no hair), sitting in center of chaos
-- **Expression**: Head SPINNING with cartoon spin lines around it
-- **Body Language**: Overwhelmed but not distressed - more amazed than anxious
-- **Position**: Central figure surrounded by whirlwind of career possibilities
-- **Clothing**: Regular clothes, looking like regular Corey amid the fantasy chaos
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### EMILY (observing the chaos)
-- **Physical**: SHORT SILVER/GRAY PIXIE-CUT HAIR (stylish, NOT elderly)
-- **Activity**: Watching with fond amusement as ideas swirl around
-- **Expression**: Loving smile, understanding that this brainstorming is getting intense
-- **Position**: Part of the family group watching the career tornado
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### SUPER THREE (still generating ideas)
-- **Physical**: All in blue T-shirts with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png) (red red diamond shield with yellow '3' with yellow "3")
-- **REMI**: Dark brown straight hair, still pointing out career options
-- **OONA**: Long honey blonde hair, excited by the possibilities
-- **ZEPHYR**: Light brown messy hair, holding up drawing labeled "GOO???" looking hopeful
-- **Activity**: Continuing to brainstorm while noting Dad's overwhelm
-
-### CAREER WHIRLWIND ELEMENTS
-- **Astronaut Helmet**: Floating in the tornado of possibilities
-- **Punk Guitar**: From previous rock star fantasy
-- **Captain's Hat**: From sea captain dreams
-- **Bitcoin Symbol**: From crypto mogul ideas
-- **Self-Driving Car**: From previous fantasies
-- **LEGO Bricks**: From engineer dreams
-- **Clapperboard**: From acting aspirations
-- **Political Buttons**: From campaign fantasies
-- **Library Books**: Crossed out with Emily glaring
-- **Truck in Reverse**: From transportation career
-- **Plus Many More**: All previous career symbols swirling together
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-Corey's head was now SPINNING with all he had heard!
-So many careers! It was almost absurd!
-From astronaut, rocker, and sea captain too,
-To crypto and TikTok and Lego and... GOO?
+"You could yodel on mountains! Teach pigeons to WALTZ!
+You could open a shop selling nothing but SALTS!"
+
+"You could be an INVENTOR!" the Super Three cried,
+"Build a hat that tells JOKES! Skates TEN FEET wide!"
 
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
-- COREY: Completely BALD adult male (no hair), round face, dark olive-green apron, white shirt
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
-- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt  
+- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt
 - ZEPHYR: 9-year-old CAUCASIAN WHITE girl, light brown shoulder-length hair, blue Super3 shirt
 - SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
 - STORE: Cream building with 4 white columns (reference: cartoon-characters/store-cartoon.jpg)
@@ -55,46 +42,19 @@ To crypto and TikTok and Lego and... GOO?
 
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
-Create a modern 2D cartoon illustration with cel-shading showing CAREER OVERLOAD in a spectacular tornado of possibilities.
 
-**CENTER**: COREY (bald!) sits in the middle with his head SPINNING - include cartoon spin lines around his head! He should look overwhelmed but amazed rather than distressed, like someone who just realized how many possibilities exist in the world.
-
-**SURROUNDING WHIRLWIND**: Create a tornado/hurricane of ALL the career images from the entire series swirling around him:
-- Astronaut helmet
-- Punk rock guitar (with subtle "Big Dog" sign)
-- Captain's hat
-- Bitcoin symbols
-- Self-driving car
-- LEGO bricks
-- Movie clapperboard
-- Political campaign buttons
-- Library books (crossed out with Emily's face glaring)
-- Truck driving in reverse
-- Notepad (journalist)
-- Legal briefcase
-- Podcast microphone
-- Game controller
-- Mattress
-- Water slide with splash
-- Golf balls
-- Dog in yoga pose
-- Hot dogs
-- Sourdough starter jar
-- Hot sauce bottle
-- Fortune cookies
-- Mini golf windmill
-- And MORE!
-
-**FAMILY OBSERVERS**: THE SUPER THREE and EMILY watching this wonderful chaos. ZEPHYR should be in the corner holding her drawing labeled "GOO???" still looking hopeful. Emily and the twins should be shaking their heads lovingly at Zephyr's suggestion.
-
-The mood should be joyful overwhelm - like discovering the world is full of infinite amazing possibilities.
+Create a modern 2D cartoon illustration with cel-shading showing THREE PANELS of creative career opportunities:
+**IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. These labels are for organization only.
+**PANEL 1 - STOCK PHOTO MODEL**: COREY (bald!) appears in multiple poses on FLOATING POWERPOINT SLIDES around him - pointing at graphs looking impressed, shaking hands, giving thumbs up, and laughing at salad (classic stock photo poses). Each slide should have watermarks. In the background, show a corporate meeting where people are actually using presentations featuring his images. He should be EVERYWHERE, representing the ubiquity of stock photos.
+**PANEL 2 - FORTUNE COOKIE WRITER**: COREY at a tiny desk surrounded by MOUNTAINS of fortune paper slips. Show his latest creation: "A SPATULA IN TIME SAVES NINE." Include weird ones scattered around: "BEWARE THE TUESDAY PENGUIN" and "YOUR LUCKY NUMBER IS CHEESE." A fortune cookie factory should be visible churning in the background, mass-producing his wisdom.
+**PANEL 3 - MINI GOLF DESIGNER**: COREY standing proudly in an ELABORATE mini golf course with ABSURD obstacles: windmill, loop-de-loop, erupting volcano, whale mouth, castle with moat. Show frustrated golfers attempting impossible shots. Include signage reading "COREY'S EXTREMELY DIFFICULT MINI GOLF" and his designer business card.
+Each panel should capture a different type of creative work - visual modeling, written wisdom, and experiential design. The progression should show increasingly complex creative challenges.
 
 
-
-
+ with bright, varied color palettes - corporate blues and whites for stock photos, warm wisdom yellows for fortune cookies, and playful mini golf carnival colors. Each panel should emphasize the creative and slightly absurd nature of these real but unusual careers.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with a rainbow tornado of colors, all the career symbols swirling in organized chaos around central Corey. The spin lines around his head should be dramatic and the overall feeling should be wonder at life's possibilities.
+**Art Style**: Modern 2D cartoon style with cel-shading featuring bold outlines, flat colors with cel-shading, clean prominent dark outlines, and sharp shadow edges without gradients.

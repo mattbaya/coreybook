@@ -1,0 +1,18 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading showing The Store at Five Corners (reference: cartoon-characters/store-cartoon.jpg) looking abandoned but beautiful. The historic building has cream/yellow clapboard siding and dark forest green shutters. The "Store at Five Corners" sign with "Est. 1787" is visible but weathered. Show dusty windows with cobwebs, an empty front porch, and a small crooked "CLOSED" sign in the window. 
+Five winding country roads stretch away from the intersection in different directions, creating the distinctive five-way crossroads. In the background, show the rolling Berkshire mountains with autumn colors. A red barn is visible across one of the streets. The sky should be gray and melancholy but not threatening.
+The building should look lonely and neglected but waiting to be loved again—dusty and sad, but with inherent beauty and character. Add subtle Seussian touches like slightly wobbly rooflines and an exaggerated chimney, while maintaining the recognizable structure of this real historic building.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading featuring bold outlines, flat colors with cel-shading, clean prominent dark outlines, and sharp shadow edges without gradients. The mood should be melancholy but hopeful.

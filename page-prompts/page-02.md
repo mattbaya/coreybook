@@ -41,7 +41,6 @@ Then along came young Corey, a chef with a dream,
 With his pans and his spatulas, all shiny and clean.
 "I will OPEN this Store!" Corey said with delight.
 "I'll make sandwiches, coffees! I'll set this place RIGHT!"
-
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**

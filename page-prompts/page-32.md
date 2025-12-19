@@ -2,53 +2,37 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (TWO MAIN PANELS PLUS SPLIT BOTTOM)
-- **Physical**: Completely BALD head (no hair) in all scenarios
-- **Top Panel - Pro Gamer**: Gaming headset, team jersey reading "CHEF_DADDY_420"
-- **Bottom Left - Drone Pilot**: Aviator goggles on bald head, controlling fleet of delivery drones
-- **Bottom Right - Prompt Engineer**: At sleek computer typing, directing AI to create wild outputs
-- **Expression**: Competitive focus (gaming), aviation concentration (drones), creative directing (AI)
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### SUPER THREE (esports audience)
-- **Physical**: All in blue T-shirts with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png) (red red diamond shield with yellow '3' with yellow "3")
-- **Activity**: In esports audience holding "GO DAD!" signs
-- **Expression**: Enthusiastic fans cheering for their dad
-- **REMI**: Dark brown straight hair, jumping with excitement
-- **OONA**: Long honey blonde hair, waving sign proudly
-- **ZEPHYR**: Light brown messy hair, loudest cheering
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### GAMING SETUP
-- **Environment**: ESPORTS CHAMPIONSHIP arena with giant screens
-- **Equipment**: Gaming headset, multiple energy drinks scattered around
-- **Trophy**: Large "WORLD CHAMPION" trophy waiting
-- **Display**: Massive screens showing intense game action
-
-### DRONE OPERATION
-- **Equipment**: Professional control station with multiple screens
-- **Drones**: Fleet delivering packages across sky
-- **Mishap**: One drone accidentally dropping package in swimming pool
-- **Gear**: Aviator goggles giving him that pilot look
-
-### AI/PROMPT ENGINEERING
-- **Setup**: Sleek, futuristic computer workstation
-- **AI Output**: Robot generating bizarre creations (cats on unicorns, cheese poems)
-- **Title**: "PROFESSIONAL ROBOT WHISPERER"
-- **Activity**: Typing commands to direct AI creativity
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"Or be a PRO GAMER in esports so grand!
-The best Fortnite player in all of the land!"
-
-"You could fly DELIVERY DRONES across the whole sky!
-Or be a PROMPT ENGINEER—tell AI what to say!"
-
+"You could be a LAWYER to help those in need!
+Save chefs from bad leases and nonprofit greed!
+Start a class action against mega-corps,
+And put ESQUIRE after your name—fancy, of course!"
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
 - COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
 - EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
 - REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
-- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt  
+- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt
 - ZEPHYR: 9-year-old CAUCASIAN WHITE girl, light brown shoulder-length hair, blue Super3 shirt
 - SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
 - STORE: Cream building with 4 white columns (reference: cartoon-characters/store-cartoon.jpg)
@@ -57,23 +41,22 @@ Or be a PROMPT ENGINEER—tell AI what to say!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing multiple tech career fantasies:
-
-**TOP PANEL - PRO GAMER**: COREY (bald!) at an ESPORTS CHAMPIONSHIP wearing a gaming headset and team jersey reading "CHEF_DADDY_420." Giant screens show intense game action, energy drinks are scattered everywhere, and a "WORLD CHAMPION" trophy awaits. THE SUPER THREE (blue Super3 t-shirts) are in the audience holding "GO DAD!" signs and cheering enthusiastically.
-
-**BOTTOM - SPLIT PANEL**: 
-**Left - DRONE PILOT**: COREY at a control station wearing aviator goggles on his bald head, piloting a fleet of delivery drones across the sky. One drone should be accidentally dropping a package into a swimming pool as a humorous mishap.
-
-**Right - PROMPT ENGINEER**: COREY at a sleek computer setup typing commands, with an AI robot generating wonderfully weird outputs like cats riding unicorns and poetry about cheese. Include the title "PROFESSIONAL ROBOT WHISPERER" to emphasize this emerging tech career.
-
-All three scenarios should show Corey mastering different aspects of modern technology - competitive gaming, drone operation, and AI direction. The mood should be exciting and forward-looking, showing how technology creates new career possibilities.
-
-
+Create a modern 2D cartoon illustration with cel-shading showing Corey's lawyer fantasy in a dramatic courtroom setting.
+The main focus is LAWYER COREY (bald!) in a sharp suit, pointing dramatically at the defendant's table where EVIL CORPORATE EXECUTIVES cower. These villains should look cartoonish with money bag heads and suits made of dollar bills, representing mega-corporation greed.
+Behind Corey: a line of GRATEFUL CLIENTS - chefs in aprons and small business owners looking relieved and thankful for his legal representation.
+Key courtroom elements:
+- Judge's nameplate reading "JUSTICE"
+- Legal books on Corey's table: "FIGHTING THE POWER" and "LEASES FOR DUMMIES"
+- A prominent business card: "COREY WENTWORTH, ESQ." in fancy script lettering
+- A scoreboard showing "LITTLE GUYS: 47 / MEGA CORPS: 0"
+The best detail: OONA (long honey blonde hair, blue Super3 t-shirt) wearing a tiny judge's wig and robes, seriously banging an oversized gavel from the judge's bench, fully committed to her role in this fantasy.
+The scene should capture the David vs. Goliath energy of a small-town lawyer taking on corporate power and winning. Corey looks confident and principled, fighting for justice with the backing of the community.
 
 
+ with dramatic courtroom lighting, bold contrast between the good guys (warm colors) and corporate villains (cold money-greens), and exaggerated expressions emphasizing the moral victory theme.
 
 **IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with bright, high-tech color schemes - gaming arena blues and neons, sky blues for drone operation, and futuristic metallics for the AI setup. Include lots of technological details with bold outlines and flat colors.
+**Art Style**: Modern 2D cartoon style with cel-shading featuring bold outlines, flat colors with cel-shading, clean prominent dark outlines, and sharp shadow edges without gradients.

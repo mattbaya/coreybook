@@ -25,7 +25,6 @@ So he scrubbed and he polished from ceiling to floor,
 He hung up new menus and opened the door!
 The neighbors came running! The farmers came too!
 They said, "Corey! Oh Corey! We've been WAITING for you!"
-
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**

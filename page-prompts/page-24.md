@@ -2,36 +2,30 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (in AI PROGRAMMER FANTASY)
-- **Physical**: Completely BALD head (no hair), warm friendly face with genuine big smile
-- **Clothing**: Modern tech hoodie over casual clothes
-- **Expression**: Excited concentration as he codes with AI
-- **Activity**: Typing on glowing futuristic keyboard, surrounded by floating holographic code
-- **Setting**: High-tech workspace with multiple screens and AI robots
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### AI ROBOT ASSISTANTS
-- **Appearance**: Friendly, sleek robots with personalities
-- **Activity**: Floating around Corey, one saying "HAVE YOU TRIED TURNING IT OFF AND ON?"
-- **Style**: Whimsical modern cartoon-style robots with cel-shading, not threatening
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### ZEPHYR (gaming in background)
-- **Physical**: Smallest, light brown messy hair
-- **Clothing**: Blue T-shirt with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png) (red red diamond shield with yellow '3' with yellow "3")
-- **Activity**: Playing the duck game on tablet, giving thumbs up
-- **Expression**: Delighted by the game
-
-### TECH ENVIRONMENT
-- **Screens**: Multiple monitors showing various projects
-- **Apps Displayed**: "PI or PIE?" app with math symbol AND delicious pie, "COREY'S USED SPATULAS - Only $3.00!" website
-- **Game**: Video game like Minecraft but ROUNDER with DUCKS
-- **Code**: Floating holographic programming code in the air
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could PROGRAM COMPUTERS with the help of AI!
-Build weird little apps that calculate PI!
-Or maybe calculate PIE—'How many slices?'
-You could make websites selling spatulas at reasonable prices!"
-
+"You could test SELF-DRIVING CARS!" Zephyr proclaimed,
+"Just ride around in them! You'd never be blamed!
+If they run over a garden, a mailbox, a bagel cart—
+You'd say, 'Wasn't ME! The car's not very smart!'"
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -47,20 +41,48 @@ You could make websites selling spatulas at reasonable prices!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Corey's AI programmer fantasy sequence.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-The main focus is TECH DEVELOPER COREY (completely bald!) in a modern hoodie, sitting at a futuristic workstation with a glowing keyboard. He's surrounded by floating holographic code and AI robot assistants that look friendly and whimsical (not threatening).
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-The screens around him show:
-- "PI or PIE?" app displaying both a mathematical pi symbol AND a delicious-looking pie
-- "COREY'S USED SPATULAS - Only $3.00!" website
-- A video game that looks like Minecraft but with ROUNDER blocks and DUCKS swimming around
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-AI robots float nearby with speech bubbles. One should be saying "HAVE YOU TRIED TURNING IT OFF AND ON?" in a helpful but slightly confused way.
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-In the background corner, show ZEPHYR (light brown messy hair, blue Super3 t-shirt) playing the duck game on a tablet, giving an enthusiastic thumbs up.
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-The workspace should feel high-tech but whimsical, with floating code, multiple glowing screens, and that classic Seussian sense of organized chaos. The mood is excited innovation - Corey discovering the joy of creating with technology.
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
+
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -70,4 +92,4 @@ The workspace should feel high-tech but whimsical, with floating code, multiple 
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with bold outlines, clean prominent dark lines, and bold colors dominated by tech blues and glowing screen yellows/greens.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

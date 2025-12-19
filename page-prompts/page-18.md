@@ -2,39 +2,30 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (in FANTASY SEQUENCE)
-- **Physical**: Still completely BALD head (important detail!)
-- **Costume**: Retro-futuristic spacesuit with clear bubble helmet
-- **Activity**: FLOATING in zero gravity, FLIPPING PANCAKES in mid-air
-- **Expression**: Delighted concentration as he cooks in space
-- **Setting**: Inside whimsical rocket ship with control panels and windows
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### ZEPHYR (narrator/suggester)
-- **Physical**: Smallest, light brown messy hair 
-- **Clothing**: Blue T-shirt with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png)
-- **Position**: Small figure in corner of page as narrator
-- **Expression**: Pointing excitedly, clearly proud of her suggestion
-- **Activity**: Gesturing toward the fantasy scene she's describing
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### SPACE CAFÉ ELEMENTS
-- **Pancakes**: Floating in zero-gravity bubbles with happy smiling faces
-- **Restaurant Setup**: Neon sign reading "SPACE CAFÉ - NOW OPEN ON MARS!"
-- **Kitchen Equipment**: Floating spatulas, syrup bottles, coffee cups
-- **Atmosphere**: Whimsical space diner aesthetic
-
-### SPACE SETTING
-- **View Through Windows**: Colorful Seussian planets with impossible features
-- **Saturn**: Curly, twisted rings instead of straight ones
-- **Moon**: Smiling face, maybe waving
-- **Stars**: Twinkling with personality, some winking
-- **Mars Surface**: Visible below with red Seussian landscape
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could be an ASTRONAUT!" Zephyr declared,
-"Flying through space in a rocket ship—THERE!
-You'd float past the planets, you'd wave at the stars,
-You'd open a SPACE CAFÉ way out on Mars!"
-
+"Papa," said Zephyr (the littlest one),
+"You can do ANYTHING now that you're done!
+You could fly to the MOON! You could dance! You could sing!
+You're our dad—and our dad can do ANYTHING!"
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -50,25 +41,48 @@ You'd open a SPACE CAFÉ way out on Mars!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Zephyr's astronaut fantasy sequence.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-The main focus is ASTRONAUT COREY (still completely bald!) floating inside a retro-futuristic rocket ship in zero gravity. He wears a classic astronaut spacesuit with a clear bubble helmet and is actively FLIPPING PANCAKES that float in zero-gravity bubbles around him! Each pancake should have a happy smiling face.
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-The rocket ship interior should be whimsical with:
-- Colorful control panels with impossible buttons and dials
-- Floating kitchen equipment (spatulas, syrup bottles, coffee cups)
-- A bright neon sign visible through the window: "SPACE CAFÉ - NOW OPEN ON MARS!"
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-Through the rocket's windows, show the fantastical view of space:
-- Colorful Seussian planets with exaggerated, impossible features
-- Saturn with CURLY, twisted rings (not straight rings)
-- A smiling moon that might be waving
-- Twinkling stars with personality - some winking at the viewer
-- The surface of Mars below with red Seussian landscape features
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-In one corner of the page, show small ZEPHYR (light brown messy hair, blue Super3 t-shirt) pointing excitedly at her suggested fantasy, clearly proud of this creative idea.
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-The overall feeling should be pure joy and whimsy - the magic of a child's imagination turning space travel into the ultimate cooking adventure.
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
+
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -78,4 +92,4 @@ The overall feeling should be pure joy and whimsy - the magic of a child's imagi
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with bold outlines, clean prominent dark lines, and a color palette dominated by space blues, cosmic purples, and the warm yellows/oranges of the space café elements.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

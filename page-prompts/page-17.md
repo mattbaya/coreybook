@@ -2,38 +2,30 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### EMILY (focus character)
-- **Physical**: SHORT SILVER/GRAY PIXIE-CUT HAIR, mischievous confident smile
-- **Activity**: Dramatically producing and UNROLLING an ABSURDLY LONG LIST/SCROLL
-- **Expression**: Grinning with excitement about the brainstorming session
-- **Personality**: Organized, supportive, the planner of the family
-
-### THE SUPER THREE
-All wearing BLUE T-SHIRTS with SUPER3 LOGO, gathered around the list:
-- **REMI**: Dark brown straight hair, pointing excitedly at career suggestions
-- **Oona**: Long honey hair, bouncing while examining the list
-- **Zephyr**: Smallest, light brown messy hair, pointing at her favorite ideas
-
 ### COREY (protagonist)
-- **Physical**: Completely BALD head
-- **Posture**: Sitting down (maybe on construction barrier or Store porch steps)
-- **Expression**: Leaning forward with genuine INTEREST and growing smile
-- **Mood**: Beginning to engage with possibility again
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### THE LIST (major visual element)
-- **Length**: ABSURDLY LONG, twisting and curling around entire scene
-- **Path**: Around Corey, around kids, wrapping around construction cone for comedy
-- **Content**: Glimpses of careers in mixed handwriting:
-  - Emily's neat writing: "ASTRONAUT!" "ROCK STAR!" "CAPTAIN!"
-  - Kids' crayon scrawl: colorful additions and drawings
-- **Style**: Family brainstorm session made visual
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
+
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-And Emily laughed and she pulled out a list—
-A list that was long, that went TWIST after TWIST!
-"We brainstormed," she grinned, "all the things you could BE!
-So sit down and listen—from US, your family!"
-
+"This chapter is closing, but here's the great news:
+A NEW book is starting—and YOU get to choose!"
+Then in burst THE SUPER THREE—oh, what a team!
+Remi, Oona, and Zephyr, all ready to DREAM!
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -49,23 +41,48 @@ So sit down and listen—from US, your family!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Emily dramatically revealing the family's brainstorm session.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-Emily (short silver hair, mischievous confident smile) dramatically produces and UNROLLS an ABSURDLY LONG LIST/SCROLL. The list should be SO long it twists and curls around the entire scene - around Corey (completely bald), around the kids, out toward the viewer, maybe even wrapping around a construction cone for comedic effect.
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-The visible portions of the list show tantalizing glimpses of different careers written in a mix of Emily's neat handwriting and the kids' crayon scrawl:
-- "ASTRONAUT!" (neat writing)
-- "ROCK STAR!" (with musical notes drawn around it)
-- "CAPTAIN!" (with small boat doodle)
-- "INVENTOR!" (in crayon)
-- "PENGUIN TRAINER?" (with question mark and penguin drawing)
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-The Super Three (all in blue Super3 t-shirts (logo reference: images/super3v3.png)) gather excitedly around different parts of the list, pointing at their favorite suggestions:
-- **REMI**: Dark brown straight hair, pointing decisively at one section
-- **Oona**: Long honey hair bouncing as she examines another part
-- **Zephyr**: Smallest, pointing enthusiastically at her contributions
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-Corey sits down (maybe on a construction barrier or the Store's porch steps), leaning forward with genuine INTEREST and a growing smile. This sets up the fantasy sequences to come - the family brainstorm session begins!
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
+
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
+
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -75,4 +92,4 @@ Corey sits down (maybe on a construction barrier or the Store's porch steps), le
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with the absurdly long list as a major visual element, emphasizing family collaboration and growing excitement about possibilities, featuring bold outlines and flat colors.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

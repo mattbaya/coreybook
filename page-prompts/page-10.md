@@ -3,37 +3,29 @@
 ## CHARACTER DESCRIPTIONS
 
 ### COREY (protagonist)
-- **Physical**: Completely BALD head, looking shocked and horrified
-- **Clothing**: Navy blue apron, standing at kitchen sink
-- **Activity**: Turning on tap, reacting with wide-eyed shock to contaminated water
-- **Expression**: Eyes WIDE with disbelief, mouth open in dismay
-- **Body Language**: Startled, stepping back from the sink
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### HEALTH INSPECTOR
-- **Appearance**: Official-looking person with clipboard
-- **Clothing**: Professional attire with health department credentials
-- **Activity**: Bursting through kitchen door, pointing dramatically
-- **Expression**: Urgent, authoritative, shouting warnings
-- **Props**: Clipboard with health violation notices
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### THE STORE KITCHEN (CONTAMINATED)
-- **Water System**: All taps and faucets producing bright sickly green water
-- **Equipment**: Professional espresso machine now "betrayed" - dripping green
-- **Atmosphere**: Shift to alarming colors - sickly greens, warning yellows, alarm reds
-- **Details**: Red "BOIL WATER ORDER" notice being slapped on wall/window
-
-### VISUAL ELEMENTS
-- **Contaminated Water**: BRIGHT SICKLY GREEN water coming from tap
-- **Bacteria**: Little cartoon bacteria with worried faces floating in water, or skull-and-crossbones bubbles
-- **Calendar**: Shows "OCTOBER" with Columbus Day weekend circled
-- **Warning Signs**: "E. COLI!" text prominently displayed
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-Still Corey kept cooking through summer and fall.
-But then came October—a dark, dreadful day—
-When the water turned BAD in the worst sort of way!
-"E. COLI!" they shouted. "Don't drink! Do not sip!"
-
+But the money was tight—oh, so terribly tight!
+He'd count up his pennies by dim kitchen light.
+The electric bill ZOOMED like a bird to the sky,
+And the dollars went OUT faster than they came by.
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -49,19 +41,46 @@ When the water turned BAD in the worst sort of way!
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing a dramatic, alarming scene in The Store kitchen. This is the first major disaster to strike.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-The scene shows Corey standing at the kitchen sink, turning on the tap. The water that comes out is BRIGHT SICKLY GREEN and menacing! Include little cartoon bacteria with worried faces floating in the water, or skull-and-crossbones bubbles to show contamination.
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-Corey's eyes are WIDE with shock, his mouth open in dismay as he stares at the toxic-looking water. His bald head reflects his horror at this turn of events.
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-A HEALTH INSPECTOR bursts through the kitchen door, clipboard in hand, pointing dramatically and shouting "E. COLI!" A bright red "BOIL WATER ORDER" notice is being slapped on the wall or window.
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-Show a calendar on the wall displaying "OCTOBER" with Columbus Day weekend circled, indicating the timing of this disaster.
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-The professional espresso machine and other kitchen taps should look "BETRAYED" - all dripping the same sickly green water. The color palette should shift to alarming colors: sickly greens, warning yellows, and alarm reds.
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
 
-This represents Corey's sanctuary (the kitchen) being invaded by forces beyond his control.
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
 
 Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
@@ -73,4 +92,4 @@ Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with dramatic, alarming colors featuring bold outlines and flat colors. The contaminated water should look obviously bad but in a cartoonish rather than realistic way with sharp shadow edges.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

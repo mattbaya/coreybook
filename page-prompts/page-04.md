@@ -29,7 +29,6 @@ For three wonderful years, Corey cooked in that place.
 He served soups and he served scones with a smile on his face.
 The locals would gather with coffee in hand,
 And Corey thought, "Life here is perfectly grand!"
-
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**

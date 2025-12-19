@@ -2,49 +2,30 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (in FANTASY SEQUENCE)
-- **Physical**: Still completely BALD head
-- **Posture**: COMPLETELY RELAXED - feet up on dashboard, leaning back casually
-- **Activity**: Playing acoustic guitar while car drives itself, totally carefree
-- **Expression**: Peaceful and content, not a worry in the world
-- **Clothing**: Casual relaxed outfit, maybe a t-shirt and jeans
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### ZEPHYR (narrator/suggester)
-- **Physical**: Smallest, light brown messy hair
-- **Clothing**: Blue T-shirt with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png)
-- **Activity**: Proclaiming this absurd career idea with enthusiasm
-- **Expression**: Delighted by the chaos her suggestion creates
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### SELF-DRIVING CAR
-- **Appearance**: Futuristic vehicle with no driver input needed
-- **Dashboard**: Robot face that looks increasingly nervous/worried
-- **Steering Wheel**: Spinning completely by itself, no human hands
-- **Technology**: Clearly autonomous with sensors and futuristic details
-
-### THE TRAIL OF CHAOS BEHIND THE CAR
-- **Knocked-Over Mailbox**: Recently tipped mailbox with mail scattered
-- **Garden Damage**: Clear tire tracks through someone's flower garden
-- **Bagel Cart Incident**: Overturned bagel cart with vendor shaking fist angrily
-- **Scattered Traffic Cones**: Callback to Book 1's construction chaos
-- **General Mayhem**: Various minor accidents and confused bystanders
-
-### THE SUPER THREE ON SIDEWALK
-- **All three**: Watching from safe distance on sidewalk
-- **Activity**: Laughing hysterically at the automated chaos
-- **Expressions**: Pure delight at the absurd career suggestion
-- **Safety**: Clearly standing well clear of the car's chaotic path
-
-### SPEECH BUBBLE FROM COREY
-- **Text**: "Wasn't ME!" in clear lettering
-- **Style**: Classic comic book speech bubble
-- **Timing**: As he shrugs off responsibility for the AI's mistakes
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could test SELF-DRIVING CARS!" Zephyr proclaimed,
-"Just ride around in them! You'd never be blamed!
-If they run over a garden, a mailbox, a bagel cart—
-You'd say, 'Wasn't ME! The car's not very smart!'"
-
+"You could captain a SHIP!" shouted Oona with cheer,
+"Sailing the seas without worry or fear!
+You'd sing to your sailors a song of the sea:
+'What do you DO with a drunken sailor?'—key of C!"
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -60,25 +41,48 @@ You'd say, 'Wasn't ME! The car's not very smart!'"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-2D cartoon, cel-shading, Phil Foglio style, bold outlines
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-Comic book page layout, 4 panels, sequential art montage
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-**IMPORTANT**: DO NOT include any text labels like "PANEL 1", "PANEL 2", etc. in the actual image. Panel labels are for organization only.
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-PANEL 1 (top left): Silver Cybertruck convertible smashing through blue mailbox, letters exploding, bald man sitting inside car in passenger seat playing acoustic guitar, left hand high up guitar neck, relaxed unconcerned expression, empty driver seat, car driving itself
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-PANEL 2 (top right): Same Cybertruck plowing through flower garden, dirt and petals flying, garden gnome tumbling, same bald man seated in passenger seat still playing guitar, eyes closed peacefully, no driver
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-PANEL 3 (middle left): Same Cybertruck clipping bagel cart, bagels flying everywhere, angry vendor, bald man in passenger seat strumming guitar, slight smile, driver seat empty
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
 
-PANEL 4 (large bottom panel): Wide shot suburban street, Cybertruck in foreground, bald guitarist visible sitting in passenger seat inside the car, zigzag tire tracks on road behind, three destruction sites visible along trail, angry pedestrians
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
 
-Every panel: driver seat empty, passenger seat has guitarist, dashboard shows "All Systems OK"
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
 
-Bumper sticker "Warning AI Student Driver"
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
 
-Daytime, comedic chaos
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -88,4 +92,4 @@ Daytime, comedic chaos
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with contemporary automotive chaos - bright colors emphasizing the contrast between Corey's relaxation and the destruction happening around him, featuring bold outlines and flat colors.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

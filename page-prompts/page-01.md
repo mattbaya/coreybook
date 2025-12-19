@@ -27,7 +27,6 @@ Stood a rickety, wonderful, old country Store.
 It had stood there for ages—two hundred and MORE!
 But it sat there all dusty. It sat there all sad.
 The shelves were all empty. The windows looked bad.
-
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**

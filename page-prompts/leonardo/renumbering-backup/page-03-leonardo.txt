@@ -1,0 +1,21 @@
+[PROMPT]
+
+CHARACTER CONSISTENCY RULES (CRITICAL):
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: Adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE BOY, dark brown hair (not curly), pale/white skin, blue Super3 shirt, non-identical twin to Oona
+- OONA: 11-year-old CAUCASIAN WHITE GIRL, long honey blonde hair, pale/white skin, blue Super3 shirt, non-identical twin to Remi
+- ZEPHYR: 9-year-old CAUCASIAN WHITE GIRL, light brown shoulder-length hair, pale/white skin, blue Super3 shirt, smallest child
+- ALL CHILDREN: Caucasian white with pale/light skin tones, family resemblance
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+
+
+Create a modern 2D cartoon illustration with cel-shading split scene or montage showing the transformation:
+**Top/Left section**: Show Corey (bald, wearing navy blue apron) working hard to restore the Store. He's on his hands and knees scrubbing the wooden floors, polishing the big glass windows of the sunroom addition, and hanging a colorful chalkboard menu. His expression shows determination and joy in the work.
+**Bottom/Right section**: Show the GRAND REOPENING celebration! The green front door swings wide open with Corey standing in the doorway, arms spread in welcome, beaming with pride. His apron is clean and he looks ready for business.
+A crowd of excited, diverse townspeople rushes toward the Store - farmers in overalls, families with children, elderly folks, hikers with backpacks. Everyone is smiling and eager.
+The Store now GLOWS with warmth and welcome - lights on in every window, the "Store at Five Corners" sign looks fresh and inviting. There's a "GRAND OPENING" banner strung up, colorful bunting decorating the porch, and pumpkins suggesting autumn. The American flag waves proudly.
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
+**IMAGE FORMAT**: Generate as a SQUARE image (1:1 aspect ratio).
+**IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
+**Art Style**: Modern 2D cartoon style with cel-shading featuring bold outlines, flat colors with cel-shading, clean prominent dark outlines, and warm vibrant colors radiating joy and community spirit. The contrast between Corey working alone and the community celebration should be clear.

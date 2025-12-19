@@ -2,35 +2,30 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (in LEGO ENGINEER FANTASY)
-- **Physical**: Completely BALD head (no hair), warm friendly face with big genuine smile
-- **Clothing**: Hard hat and safety vest over regular clothes
-- **Expression**: Proud engineer showing off his creations
-- **Activity**: Holding blueprints, standing before massive LEGO structures
-- **Props**: Blueprint reading "NEXT: LEGO GRAND CANYON?"
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### OONA (suggester/narrator)
-- **Physical**: Long honey blonde hair, bright and joyful expression
-- **Clothing**: Blue T-shirt with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png) (red red diamond shield with yellow '3' with yellow "3")
-- **Activity**: Pointing excitedly at the fantasy, clearly proud of her suggestion
-- **Expression**: Enthusiastic and creative
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### LEGO STRUCTURES
-- **Statue of Liberty**: Life-sized version in green LEGO bricks with tourists taking photos
-- **LEGO Sequoia**: 300-foot tall tree stretching into clouds with birds nesting
-- **Scale Elements**: Helicopter flying for size comparison, people looking tiny below
-
-### CROWD REACTIONS
-- **Tourists**: Taking photographs of the Statue of Liberty
-- **Person in Pain**: Hopping on one foot saying "OW!" after stepping on loose LEGO pieces
-- **Curious Crowd**: Asking "WHY?" while Corey grins and responds "BECAUSE LEGOS!"
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could be a LEGO ENGINEER!" Oona cried out,
-"Build a life-sized STATUE OF LIBERTY, no doubt!
-Or a LEGO SEQUOIA—three hundred feet high!
-And when people ask why, you'd say, 'LEGOS! That's why!'"
-
+The list just kept going! The dreams filled the air!
+With so many futures—too many to share!
+But Corey was smiling, his heart felt so light...
+And the family kept dreaming all through the night!
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -46,23 +41,48 @@ And when people ask why, you'd say, 'LEGOS! That's why!'"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Oona's LEGO engineer fantasy sequence.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-The main focus is LEGO ENGINEER COREY (completely bald!) wearing a hard hat and safety vest, standing proudly before MASSIVE LEGO STRUCTURES:
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-1. **Life-sized STATUE OF LIBERTY**: Built entirely from green LEGO bricks, with tourists taking photographs and a helicopter flying nearby for scale comparison. The statue should maintain its iconic pose but have that unmistakable blocky LEGO texture.
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-2. **300-FOOT LEGO SEQUOIA TREE**: A towering tree made of brown and green LEGO bricks stretching high into the clouds, with birds actually nesting in the LEGO branches.
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-On the ground around the structures:
-- Scattered LEGO pieces that HURT to step on (show someone hopping on one foot yelling "OW!")
-- Corey holding blueprints labeled "NEXT: LEGO GRAND CANYON?"
-- A crowd of amazed people asking "WHY?" 
-- Corey grinning widely and responding "BECAUSE LEGOS!"
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-In one corner, show OONA (long honey blonde hair, blue Super3 t-shirt) pointing excitedly at her suggested fantasy, clearly proud of this ambitious idea.
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
 
-The scale should be massive and impressive, with Corey looking small but proud next to his creations. Include classic LEGO details like the studs on top of bricks and that satisfying blocky aesthetic.
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -72,4 +92,4 @@ The scale should be massive and impressive, with Corey looking small but proud n
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with bold outlines and bright primary colors that emphasize the LEGO aesthetic - lots of reds, blues, greens, and yellows in that blocky, satisfying LEGO style.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

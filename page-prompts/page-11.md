@@ -2,54 +2,85 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (protagonist - ONLY CHARACTER IN SCENE)
-- **Physical**: Completely BALD head, looking EXHAUSTED and defeated
-- **Clothing**: Navy blue apron, disheveled and rumpled
-- **Posture**: Standing but weary, holding closure signs
-- **Expression**: Sad, resigned, exhausted by repeated failures
-- **Props**: Two handwritten signs about store closure
-- **Mood**: Defeated but accepting the reality of failure
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### THE STORE INTERIOR (ABANDONED STATE)
-- **Atmosphere**: Dark, dusty, mostly unused, melancholy
-- **Lighting**: Dim light filtering through dirty windows
-- **Cleanliness**: Cobwebs in corners, dust on surfaces
-- **Food**: Visibly rotting - moldy items, spoiled produce, abandoned meals
-- **Equipment**: Covered in dust sheets or sitting unused and neglected
-- **Overall Feel**: Once-lively space now empty and deteriorating
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### VISUAL ELEMENTS
-- **Signs**: "Sorry Folks, Store's Closed!" and "Temporarily Closed due to really gross water supply issues"
-- **Decay**: Rotting food, dusty equipment, cobwebs, general neglect
-- **Isolation**: Only Corey present, emphasizing loneliness and failed dreams
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-He closed for a day. Then he opened once more.
-But in NOVEMBER it happened AGAIN at the Store!
-The food in the freezer went bad, one by one.
-The customers stopped coming. The cooking was done.
-
+Then the road crews arrived with their cones and their trucks,
+And they dug up the crossroads—oh, what rotten luck!
+"A ROUNDABOUT!" they cried. "It will take a whole year!"
+And the customers vanished. They just... disappeared.
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
-- COREY: CAUCASIAN WHITE completely BALD adult male (no hair), round face, navy blue apron, white shirt
-- STORE INTERIOR: Interior shot only, no exterior building view needed
-- TOTAL PEOPLE: Only 1 (Corey alone)
+- COREY: Completely BALD adult male (no hair), round face, navy blue apron, white shirt
+- EMILY: CAUCASIAN WHITE adult female, short silver pixie hair, black glasses
+- REMI: 11-year-old CAUCASIAN WHITE boy, dark brown straight hair, blue Super3 shirt
+- OONA: 11-year-old CAUCASIAN WHITE girl, long honey blonde hair, blue Super3 shirt  
+- ZEPHYR: 9-year-old CAUCASIAN WHITE girl, light brown shoulder-length hair, blue Super3 shirt
+- SUPER3 LOGO: Red diamond shield with yellow "3", letters Z-O-R in corners
+- STORE: Cream building with 4 white columns (reference: cartoon-characters/store-cartoon.jpg)
+- TOTAL PEOPLE: Maximum 5 (Corey, Emily, Remi, Oona, Zephyr)
+
+**FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing an interior shot of The Store at Five Corners looking abandoned and sad.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-The main scene shows the interior mostly dark, unused, with cobwebs in corners. Food is visibly rotting in the background - moldy items in display cases, spoiled produce, and abandoned meals.
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-Corey (completely BALD) stands alone in the dark interior holding two signs:
-- One sign reads: "Sorry Folks, Store's Closed!"
-- Another sign reads: "Temporarily Closed due to really gross water supply issues"
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-The atmosphere should be melancholy and defeated - dusty surfaces, dim lighting filtering through dirty windows, equipment covered in dust sheets or just sitting unused. Show the once-lively store now empty and deteriorating.
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-Corey looks exhausted and sad but resigned, his navy blue apron still on but disheveled. His posture shows defeat but also a kind of weary acceptance of the situation.
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-Only Corey appears in this image - no other people, emphasizing his isolation and the emptiness of the failed dream.
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
+
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
 
 Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
@@ -61,4 +92,4 @@ Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading emphasizing exhaustion and repeated failure, featuring bold outlines and flat colors. The mood should show Corey's diminishing hope as disaster strikes twice.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

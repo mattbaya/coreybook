@@ -2,43 +2,30 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (in FANTASY SEQUENCE)
-- **Physical**: Still completely BALD head
-- **Costume**: Modern "crypto bro" outfit - backwards baseball cap, hoodie, laser-eye sunglasses
-- **Activity**: Frantically monitoring multiple trading screens, occasionally shrugging
-- **Expression**: Mix of excitement and bewildered confusion at the market chaos
-- **Gesture**: Classic "¯\_(ツ)_/¯" shrug as money flies away
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### THE SUPER THREE (narrators)
-- **All three**: Wearing blue T-shirts with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png)
-- **Activity**: Speaking in unison about this modern career suggestion
-- **Expression**: Excited about the technological possibilities
-- **Position**: Together as a group, all pointing at the crypto chaos
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### CHATGPT ROBOT ASSISTANT
-- **Appearance**: Friendly robot with "ChatGPT" clearly labeled
-- **Activity**: Typing frantically on multiple keyboards simultaneously
-- **Expression**: Overwhelmed but trying to keep up with the market madness
-- **Details**: Sparks flying from overworked circuits
-
-### TRADING ROOM CHAOS
-- **Multiple Screens**: Showing Bitcoin logos, fluctuating graphs with extreme ups and downs
-- **NFT Art**: Weird pixelated apes, a rock labeled "$2 MILLION", other absurd digital art
-- **Market Indicators**: Graphs showing wild swings from millions to zero
-- **Technology**: Futuristic trading setup with too many monitors
-
-### MONEY CHAOS
-- **Left Side**: Money and coins RAINING from the ceiling (gains)
-- **Right Side**: Money FLYING INTO FLAMES (losses)
-- **Center**: Corey calmly shrugging at the absurdity
-- **Signs**: "TO THE MOON!" and "HODL!" and "DIAMOND HANDS!" scattered around
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could be a CRYPTO MOGUL!" the Super Three said,
-"Buying Bitcoins and NFTs out of your head!
-You'd automate trades using ChatGPT—
-Make BILLIONS one day, lose it all by day three!"
-
+"Or a PUNK ROCK GUITARIST!" shouted Remi with glee,
+"Up on stage with the lights and the crowd screaming 'WHEEEE!'
+With your spiked leather jacket and mohawk so tall,
+You'd ROCK every stage! You'd ROCK one and all!"
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -54,30 +41,48 @@ Make BILLIONS one day, lose it all by day three!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing the Super Three's crypto mogul fantasy sequence.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-The main focus is CRYPTO BRO COREY (still completely bald!) in a futuristic trading room filled with chaos. He wears the classic crypto enthusiast outfit: backwards baseball cap, casual hoodie, and laser-eye sunglasses (literally shooting laser beams!).
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-The trading room should be overwhelming with:
-- Multiple screens showing Bitcoin logos and wildly fluctuating graphs
-- Bizarre NFT art displays: pixelated apes, a simple rock labeled "$2 MILLION", other absurd digital collectibles
-- Market charts swinging from massive gains to total losses
-- Way too many monitors and trading interfaces
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-A friendly ChatGPT robot (clearly labeled) sits beside Corey, typing frantically on multiple keyboards with sparks flying from its overworked circuits, trying to keep up with the automated trading chaos.
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-The money situation should be visually split:
-- LEFT SIDE: Money and Bitcoin symbols RAINING from the ceiling (representing sudden wealth)
-- RIGHT SIDE: Money FLYING INTO FLAMES (representing rapid losses)
-- CENTER: Corey doing the classic shrug gesture "¯\_(ツ)_/¯" with a bemused expression
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-Scattered throughout the scene, include crypto culture signs and phrases:
-- "TO THE MOON!" banners
-- "HODL!" posters
-- "DIAMOND HANDS!" stickers
-- Rocket ship emojis and moon graphics
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
 
-Show THE SUPER THREE (all in blue Super3 t-shirts) together in the corner, excitedly describing this modern technological career possibility.
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -87,4 +92,4 @@ Show THE SUPER THREE (all in blue Super3 t-shirts) together in the corner, excit
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading but with contemporary tech chaos - bright digital colors (electric blues, neon greens, warning reds) emphasizing the volatile, absurd nature of cryptocurrency culture, featuring bold outlines and flat colors.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

@@ -2,40 +2,30 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### ZEPHYR (focus character)
-- **Physical**: Light brown hair (medium length, slightly messy), smallest of the three
-- **Clothing**: Blue Super3 t-shirt with red/yellow logo
-- **Activity**: Holding her father's hand in BOTH of her small hands
-- **Expression**: Enormous, shining, hopeful eyes and biggest possible child smile
-- **Body Language**: Looking UP at Corey with pure adoration
-- **Personality**: The loudest and most enthusiastic despite being youngest
-
 ### COREY (protagonist)
-- **Physical**: Completely BALD head, much larger hands
-- **Expression**: Looking down at his daughter, sadness melting away like snow
-- **Emotion**: Happy tears might be forming, softening completely
-- **Mood**: This is the emotional hinge of the transformation
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### EMILY AND THE TWINS (background)
-- **Emily**: Short silver hair, watching with warm smile
-- **Remi & Oona**: In their Super3 shirts, watching the tender moment
-- **Mood**: Family witnessing the healing moment
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### IMAGINATION ELEMENTS
-- **Thought Bubble**: Above them showing tiny preview vignettes
-- **Mini Scenes**: Corey floating toward moon, dancing on stage, singing into microphone
-- **Style**: Previewing possibilities to come, dreamy and hopeful
-
-### SETTING
-- **Background**: The Store in soft focus, no longer the main focus
-- **Emphasis**: Family connection is everything now
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"Papa," said Zephyr (the littlest one),
-"You can do ANYTHING now that you're done!
-You could fly to the MOON! You could dance! You could sing!
-You're our dad—and our dad can do ANYTHING!"
-
+He turned and he saw them—his family, his CREW!
+Running toward him and shouting, "We're HERE! We're here, too!"
+There was Emily first, with her smile like the sun,
+She said, "Oh my darling, you're NOT nearly done!"
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -51,17 +41,48 @@ You're our dad—and our dad can do ANYTHING!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading focusing on a tender close-up moment between Corey and his youngest daughter.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-Show ZEPHYR (smallest, light brown messy hair, blue Super3 shirt (logo reference: images/super3v3.png)) holding her father's much larger hand in BOTH of her small hands. She looks UP at Corey (completely bald) with enormous, shining, hopeful eyes and the biggest smile a child can make. Her expression shows pure love and absolute faith in her father.
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-Corey looks down at his daughter, and his expression should show the sadness melting away like snow in spring. Happy tears might be forming, but they're joyful tears now. This is the emotional hinge of the entire transformation - the moment when despair turns to hope through a child's love.
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-A THOUGHT BUBBLE or IMAGINATION CLOUD blooms above them, showing tiny preview vignettes of Corey in various careers: floating toward the moon in a spacesuit, dancing on a stage with spotlights, singing into a microphone - previewing the possibilities to come in later books.
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-The other family members (Emily with her short silver hair, Remi and Oona in their Super3 shirts) watch from nearby, smiling warmly at this tender moment.
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-The Store should be visible in the soft background, but it's no longer the focus. Family connection is everything now.
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
+
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -71,4 +92,4 @@ The Store should be visible in the soft background, but it's no longer the focus
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading emphasizing the tender relationship between father and daughter, with warm golden light and the promise of infinite possibility, featuring bold outlines and flat colors.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

@@ -2,45 +2,42 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY'S HANDS
-- **Physical**: Holding an open physical journal/guest book
-- **Details**: Gentle, careful grip showing respect for the handwritten notes
-- **Wedding ring**: Visible on left hand
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### THE HANDWRITTEN JOURNAL
-- **Type**: Physical guest book with lined or blank pages
-- **Writing**: Various handwriting styles, different pens and pencils
-- **Layout**: Handwritten notes scattered across the open pages
-- **Details**: Some notes with small doodles, hearts, smiley faces
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### SETTING
-- **Location**: Cozy corner of the Store, maybe by a window
-- **Props**: Coffee cup nearby, soft lighting
-- **Atmosphere**: Intimate, personal moment
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-And hikers and bikers and locals came too,
-There's Duncan, Ronan, Sherwood, and Matt,
-And Bette and Barbara, Cecilia and Paul.
-Why even Mary Pope Osborne stopped in for a snack!
+The tablet glowed bright with review after review,
+Each one more delightful than the last one he knew!
+In the center, one comment made Corey's heart sing:
+"Finally someone who KNOWS what they're doing!"
 
-And many wrote notes in the journal there too,
-All singing his praise after tasting his soups:
-"Your pizza is BEST!" and "Sammies divine!"
-"This chai and cake made my whole day shine!"
+Around it, more praises came flooding the screen,
+The nicest reviews that he'd ever seen!
+From "Captain of this ship" to "Best croissant in life"—
+He couldn't wait to share this with Emily, his wife!
 
-"The food was fire! Bussin bussin, no cap!"*
-Young Lucas had written, then came back to nap.
-"My favorite café!" and "Such welcoming vibes!"
-"This place lifts my mood!" all the visitors scribe.
+"The place is now PACKED!" wrote a forty-year neighbor,
+"Worth every penny!" praised those who would savor
+His crispy fried chicken, his sandwiches divine,
+His coffee, his soups—everything was just fine!
 
-From Portland came Carol: "Delicious! So neat!"
-"A must-stop each autumn!" for their annual treat.
-The journal pages filled up, line after line,
-With praise for his cooking and space so divine.
-
-*QUOTES FROM REAL JOURNAL ENTRIES
-
+*QUOTES FROM REAL REVIEWS
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -56,40 +53,48 @@ With praise for his cooking and space so divine.
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing a CLOSE-UP VIEW of Corey's hands holding an open handwritten journal/guest book.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-**Main Composition:**
-Show Corey's hands gently holding an open physical journal/guest book. The book should be the main focus, filling most of the frame. Show his wedding ring and the careful, respectful way he's holding this collection of personal messages.
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-**Journal Pages Layout:**
-The open journal should show two facing pages filled with handwritten notes in various handwriting styles, different pen colors (blue, black, purple), and some pencil. Include:
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-**Left Page (mix of quotes):**
-- "The chai and peanut butter cake was to die for!! ♥" (with small heart drawing)
-- "Your pizza is the BEST!!" 
-- "Best sammies in town!" (in cursive)
-- "I come in here almost daily - THE best coffee!" (neat print)
-- "Your gluten-free treats are the best!" (with smiley face)
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-**Right Page (mix of quotes):**
-- "The food was fire. Bussin bussin, no fr, fr – such vibes. — Lucas" (in teen handwriting)
-- "Love this café! Very warm owner! Great feel." (older handwriting)
-- "My favorite café! I love the kind, welcoming vibes!!" 
-- "This place puts me in a good mood." (with small sun drawing)
-- "Williamstown haven! My favorite spot in town!"
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-**Additional Details:**
-- "Carol, Portland ME: Delicious food! Beautiful place!" at bottom
-- "A.J.T.: Our favorite stop... XO" with small heart
-- Some partial entries visible at edges (realistic journal feel)
-- Small doodles: hearts, smiley faces, stars scattered between entries
-- Date stamps on some entries
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
 
-**Background/Setting:**
-- Soft window light creating warm glow on the pages
-- Maybe edge of coffee cup or table visible
-- Cozy café corner atmosphere
-- Gentle shadows from the handwriting creating depth
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -99,6 +104,4 @@ The open journal should show two facing pages filled with handwritten notes in v
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading, emphasizing the intimate, personal nature of handwritten notes. The journal should feel lived-in and treasured, with varied handwriting styles showing the diversity of customers who loved the Store.
-
-**Lighting**: Soft, natural lighting highlighting the journal pages, creating a warm, nostalgic feeling as Corey reads these personal messages of appreciation.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

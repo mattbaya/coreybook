@@ -24,31 +24,11 @@
 ## PAGE TEXT
 Corey checked his phone with growing delight—
 The reviews were coming in day and night!
-"Chef Corey is awesome!"* and "Food's divine!"
-"Five stars!" they declared. "This place really does shine!"
-
-And then the review sites that once sat silent awoke,
-"5 stars! Thumbs Up! 'Ridiculously Good!"* they wrote.
-"Finally someone who knows what they're doing!"* penned others,
-And they told all their sisters and brothers.
-
-"Beautifully composed sandwiches!"* typed a fan,
-"Food obsessed in the best way!"* wrote another woman or man.
-"Service with a smile!"* and "What a find!"*
-The compliments poured in of every kind.
-
-From Yelp to Google, from here to there,
-The praise for Corey floated everywhere!
-His phone buzzed and pinged with each new review,
-And cars overflowed his tiny parking lot too!
-
-"Great baked goods!"* "Crispy chicken sandwich!"* "Worth the stop!"*
-The five-star ratings just wouldn't stop!
-And Corey stood beaming in his kitchen so bright,
-Reading reviews by phone's holographic light.
-
-*QUOTES FROM REAL REVIEWS
-
+Food's FINALLY discovered the review sites awoke,
+'Ridiculously Good!' they wrote.
+'5 stars! Thumbs Up!'
+'Clearly someone who knows what they're doing!'
+wrote another woman or man.
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**

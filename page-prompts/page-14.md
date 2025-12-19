@@ -3,49 +3,29 @@
 ## CHARACTER DESCRIPTIONS
 
 ### COREY (protagonist)
-- **Physical**: Completely BALD head, expression changing from sadness to SURPRISE and joy
-- **Clothing**: No longer wearing apron - holding bundled apron in hands
-- **Expression**: Turning around, face transforming from grief to hope
-- **Body Language**: Posture shifting mid-scene from slumped to straightening
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### EMILY (Corey's wife) - FIRST APPEARANCE
-- **Physical**: SHORT SILVER/GRAY PIXIE-CUT HAIR (stylish, intentionally silver - NOT elderly)
-- **Build**: Slender
-- **Clothing**: Casual but put-together (dark jacket/casual clothes)
-- **Expression**: Radiant smile like sunshine, confident and supportive
-- **Activity**: Leading the charge, running and waving toward Corey
-- **Personality**: The rock of the family, radiates calm strength and love
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### THE SUPER THREE (children) - FIRST APPEARANCE
-All wear BLUE T-SHIRTS with SUPER3 LOGO:
-- Logo: Red diamond shield with large yellow "3" in center, plus small letters "Z", "O", "R" in corners (reference: images/super3v3.png), black outline
-
-**REMI** (11, male, twin to Oona):
-- **Hair**: Dark curly/wavy hair, medium length
-- **Expression**: Energetic, brave, often leading
-- **Activity**: Running with fists pumped, shouting encouragement
-
-**OONA** (11, female, twin to Remi):  
-- **Hair**: Long honey blonde hair
-- **Expression**: Bright, joyful, jumping/bouncing
-- **Activity**: Hair flying as she runs, arms waving
-
-**ZEPHYR** (9, female, youngest):
-- **Hair**: Light brown hair, medium length, slightly messy  
-- **Expression**: LOUDEST and most enthusiastic despite being smallest
-- **Activity**: Running with maximum energy, mouth wide open shouting
-
-### SETTING DETAILS
-- **Background**: Construction cones and chaos from Book 1 still visible
-- **Color Shift**: Warm golden light breaking through previous gray tones
-- **Roads**: The five roads of the intersection leading to this convergence
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-He turned and he saw them—his family, his CREW!
-Running toward him and shouting, "We're HERE! We're here, too!"
-There was Emily first, with her smile like the sun,
-She said, "Oh my darling, you're NOT nearly done!"
-
+And Corey sat down in the quiet café,
+Convinced that his dream had just faded away.
+Three years of his life in this Store that he'd loved.
+The roundabout pushed and the water had shoved.
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -61,22 +41,48 @@ She said, "Oh my darling, you're NOT nearly done!"
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing DRAMATIC CONTRAST from the previous page's sadness. This is the rescue moment!
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-Show Corey turning around, his expression shifting from sadness to SURPRISE and dawning joy. The bundled apron he was holding falls from his surprised hands as he sees his family approaching.
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-Running UP the road toward the Store (weaving through the construction cones from Book 1), show his FAMILY - four figures in motion with arms waving, clearly shouting to him:
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-**EMILY** leads the charge with her distinctive SHORT SILVER/GRAY PIXIE-CUT HAIR, running and waving. She should have a radiant smile and confident energy.
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-**THE SUPER THREE** run behind her, all wearing their BLUE T-SHIRTS with the SUPER3 LOGO (red red diamond shield with yellow '3' with yellow "3" in center):
-- **REMI**: Dark brown straight hair, fists pumped, energetic and brave
-- **OONA**: Long honey blonde hair bouncing as she JUMPS while running  
-- **ZEPHYR**: Smallest but with mouth WIDEST OPEN, clearly the loudest, maximum energy
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-The COLOR PALETTE should SHIFT dramatically - warm golden light breaks through the gray melancholy of the previous scene. Yellow and orange tones flood in, representing hope arriving.
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
 
-Motion lines and energy should burst from the approaching family. Corey's posture changes mid-page from slumped to straightening up as hope returns.
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -86,4 +92,4 @@ Motion lines and energy should burst from the approaching family. Corey's postur
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading emphasizing the dramatic emotional shift from despair to hope through the power of family love, featuring bold outlines and flat colors.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.

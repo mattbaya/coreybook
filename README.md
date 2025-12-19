@@ -1,6 +1,6 @@
 # The Chef at the Store
 
-A heartwarming 56-page illustrated children's book about infinite possibilities, family support, and finding hope when one chapter ends.
+A heartwarming 53-page illustrated children's book about infinite possibilities, family support, and finding hope when one chapter ends.
 
 ## 📖 Story Summary
 
@@ -28,10 +28,10 @@ This story celebrates the power of family love, the magic of imagination, and th
 
 ## 📄 Book Structure
 
-**56 Total Pages:**
+**53 Total Pages (0-52):**
 - Cover page (page-00-cover.md)
-- Story pages 1-54
-- Back cover (page-56-back-cover.md)
+- Story pages 1-51
+- Back cover (page-52.md)
 
 **Key Story Sections:**
 - The store closure and Corey's despair
@@ -45,11 +45,14 @@ This story celebrates the power of family love, the magic of imagination, and th
 This project includes automated image generation using Google's Gemini API:
 
 ```bash
-# Generate all 56 images
+# Generate all images
 python generate_images.py
 
 # Generate specific pages
 python generate_images.py --start 1 --end 10
+
+# Create master files
+python code/create_master_files.py
 ```
 
 **Features:**
@@ -80,11 +83,14 @@ The story features dozens of imaginative career possibilities including:
 
 ```
 CoreyBook/
-├── page-prompts/           # 56 individual page descriptions
+├── page-prompts/           # 53 individual page descriptions
 ├── character-profiles/     # Detailed character references  
 ├── cartoon-characters/     # Visual reference images
 ├── images/                 # Photos and logos
+├── code/                   # Automation scripts
 ├── generate_images.py      # AI image generation script
+├── all_page_prompts.md     # Master file with all prompts
+├── all_page_text.md        # Master file with story text only
 ├── art-direction.md        # Complete visual style guide
 ├── CLAUDE.md              # AI development notes
 └── README.md              # This file
@@ -109,24 +115,28 @@ CoreyBook/
 
 ## 💰 Cost Estimate
 
-- **Total Images**: 56
+- **Total Pages**: 53 (4 new ending pages generated)
 - **Cost Per Image**: $0.039  
-- **Total Estimated Cost**: $2.18
+- **Recent Generation Costs**: 
+  - Page 1 accuracy improvements: $0.039
+  - Non-square image fixes (14 images): $0.55
+  - New ending pages: $0.156
 
 ## 🎨 Art References
 
-All character designs reference cartoon illustrations in the `cartoon-characters/` folder to ensure visual consistency across all 56 pages. The art style combines modern 2D animation techniques with Phil Foglio's expressive character work.
+All character designs reference cartoon illustrations in the `cartoon-characters/leonardo/` folder to ensure visual consistency across all pages. The art style combines modern 2D animation techniques with Phil Foglio's expressive character work.
 
 ## 📝 Development Notes
 
 This project was developed with AI assistance. See `CLAUDE.md` for technical development context, automation details, and important character/story specifications.
 
 ### Recent Updates
-- Fixed character consistency: Remi now has straight dark brown hair (not curly)
-- All family members explicitly described as Caucasian white with same skin tone
-- All prompts updated to generate square images (1:1 aspect ratio)
-- Fixed Leonardo prompt duplication issues
-- Clarified panel labels are for organization only (not to appear in images)
+- **Page Structure**: Consolidated from 56 to 53 pages with proper ending
+- **Text Synchronization**: Fixed page text alignment issues
+- **File Organization**: Renamed page-47-back-cover.md → page-52.md
+- **Master Files**: Created all_page_prompts.md and all_page_text.md
+- **Image Quality**: Fixed non-square images, improved Store accuracy
+- **Automation**: Added comprehensive verification and fix scripts in code/ folder
 
 ---
 

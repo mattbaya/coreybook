@@ -2,46 +2,30 @@
 
 ## CHARACTER DESCRIPTIONS
 
-### COREY (in FANTASY SEQUENCE)
-- **Physical**: Still completely BALD head 
-- **Costume**: Classic ship captain's uniform with navy coat and brass buttons
-- **Hat**: Captain's hat with Seussian gold braid and nautical details
-- **Activity**: At ship's helm, SINGING with mouth wide open, one hand on wheel
-- **Props**: Brass telescope in belt, captain's coat flowing in sea breeze
-- **Expression**: Joyfully belting out the sailor song
+### COREY (protagonist)
+- **Physical**: Completely BALD head, big warm genuine smile, eyes sparkling with joy and pride
+- **Clothing**: Navy blue apron over casual clothes, looking confident and successful
+- **Activity**: Holding his phone up, reading glowing reviews with delight
+- **Expression**: Beaming with pride, feeling validated and appreciated for his hard work
+- **Posture**: Standing tall in his kitchen, chest out with confidence
 
-### OONA (narrator/suggester)
-- **Physical**: Long honey blonde hair, age 11
-- **Clothing**: Blue T-shirt with SUPER3 logo (reference: images/super3v3.png) (reference: images/super3v3.png)
-- **Position**: Corner of page as narrator
-- **Activity**: Making captain pose herself, clearly excited about nautical adventure
-- **Expression**: Bright and joyful, inspired by maritime romance
+### THE STORE INTERIOR (SUCCESS PHASE)
+- **Setting**: Warm, bustling kitchen during the peak success period (between page 4 and the financial troubles)
+- **Atmosphere**: Golden afternoon light streaming through windows
+- **Equipment**: Professional espresso machine, clean workspace, signs of a thriving business
+- **Mood**: Peak success period, everything running smoothly
 
-### THE SHIP AND CREW
-- **Ship**: Grand sailing vessel with full billowing sails
-- **Crew**: Diverse sailors singing along, holding grog mugs (root beer!)
-- **Crew Activity**: All joining in the "Drunken Sailor" song with musical enthusiasm
-- **Ship Details**: Rigging, masts, flags, properly detailed sailing ship
-
-### MUSICAL ELEMENTS
-- **Song Visualization**: Musical staff flowing from Corey's mouth
-- **Visible Lyrics**: "What shall we DO with a DRUNKEN SAILOR?" in musical notes
-- **Key Indication**: "Early in the morning!" and "In the key of C!" 
-- **Sound Effects**: Musical notes floating throughout the scene
-
-### OCEAN SETTING
-- **Waters**: Sparkling blue ocean with Seussian wave patterns
-- **Marine Life**: Dolphins leaping alongside the ship, smiling
-- **Horizon**: Distant tropical island with palm trees
-- **Weather**: Perfect sailing conditions, sails full of wind
-- **Sky**: Clear with seabirds following the ship
+### 3D HOLOGRAPHIC ELEMENTS FROM PHONE
+- **Main Display**: Large 3D holographic thumbs up emerging from phone screen
+- **Five Stars**: Glowing 5-star ratings floating around the thumbs up
+- **Review Text**: Snippets of actual positive reviews floating in speech bubbles
+- **Visual Effects**: Sparkles, hearts, glowing elements showing digital appreciation
 
 ## PAGE TEXT
-"You could captain a SHIP!" shouted Oona with cheer,
-"Sailing the seas without worry or fear!
-You'd sing to your sailors a song of the sea:
-'What do you DO with a drunken sailor?'—key of C!"
-
+"You could be an ASTRONAUT!" Zephyr declared,
+"Flying through space in a rocket ship—THERE!
+You'd float past the planets, you'd wave at the stars,
+You'd open a SPACE CAFÉ way out on Mars!"
 ## IMAGE PROMPT
 
 **CRITICAL CHARACTER CONSISTENCY - MUST MATCH EXACTLY:**
@@ -57,28 +41,48 @@ You'd sing to your sailors a song of the sea:
 **FAMILY CONSISTENCY NOTE**: All family members (Corey, Emily, Remi, Oona, and Zephyr) are CAUCASIAN WHITE with the same light/pale skin tone. This is a white American family.
 
 
-Create a modern 2D cartoon illustration with cel-shading showing Oona's sea captain fantasy sequence.
+Create a modern 2D cartoon illustration with cel-shading showing Corey in his kitchen during the peak success period, holding up his smartphone with pure joy and pride.
 
-The main focus is CAPTAIN COREY (still completely bald!) at the helm of a magnificent sailing ship. He wears a classic navy captain's uniform with brass buttons, a captain's hat adorned with Seussian gold braid, and has a brass telescope at his belt. His coat should be flowing dramatically in the sea breeze.
+**Corey's Position & Expression:**
+Show Corey (completely bald, navy blue apron, huge warm smile) standing confidently in his kitchen, holding his phone at eye level with both hands. His expression should show genuine delight and pride as he reads the reviews. His eyes should be sparkling with happiness, and his posture should be confident and proud.
 
-Corey is actively SINGING with his mouth wide open, one hand confidently on the ship's wheel. Musical staff and notes should flow from his mouth, with visible lyrics: "What shall we DO with a DRUNKEN SAILOR?" and "Early in the morning!"
+**3D Holographic Phone Effects:**
+The phone screen should emit a large, glowing 3D holographic **THUMBS UP** that appears to float above and out of the screen. Surrounding this should be floating **FIVE GOLD STARS** with sparkle effects.
 
-The ship should be grand and detailed with:
-- Full billowing sails catching the wind
-- Proper rigging and maritime details
-- A diverse crew of sailors singing along enthusiastically
-- Crew members holding mugs of grog (clearly root beer for family-friendliness!)
-- Everyone joining in the maritime song with visible musical enjoyment
+**Floating Review Quotes:**
+Include speech bubbles or floating text snippets with actual quotes from the reviews:
 
-The ocean setting includes:
-- Sparkling blue waters with Seussian wave patterns
-- Happy dolphins leaping alongside the ship
-- A distant tropical island with palm trees on the horizon
-- Perfect sailing weather with seabirds following
+Main/larger quotes:
+- "Chef Corey is awesome!" 
+- "Finally someone who knows what they're doing!"
+- "Ridiculously good!"
+- "Worth the stop!"
 
-Show OONA (long honey blonde hair, blue Super3 t-shirt) in the corner making a captain pose herself, shouting with cheer about this nautical adventure idea.
+Additional floating quotes (smaller):
+- "Beautifully composed sandwiches!"
+- "Food obsessed in the best way!"
+- "Service with a smile!"
+- "What a find!"
+- "Best croissant I've had in my life"
+- "Great baked goods!"
+- "Crispy chicken is a must have!"
+- "One of THE BEST freshly made breakfast sandwiches"
+- "For the first time in my almost 40 years..."
+- "The place is packed!"
+- "5 stars!"
 
-The scene should capture the romance and adventure of the high seas, with the traditional "Drunken Sailor" sea shanty creating a musical, joyful atmosphere.
+Include some partial reviews floating in background:
+- "Captain of this amazingly run ship..."
+- "Best latte I've had anywhere..."
+- "So happy to have The Store back..."
+
+**Kitchen Setting:**
+Show the warm, professional kitchen during its peak - clean counters, the professional espresso machine in background, warm golden light streaming through windows. Everything should look successful and thriving.
+
+**Color Palette & Effects:**
+Use warm, glowing colors - golden yellows, bright blues for the phone screen, sparkly effects around the holographic elements. The 3D thumbs up should be bright green or blue with a glossy, dimensional appearance. Stars should be golden and twinkling.
+
+Reference cartoon-characters/store-cartoon.jpg for accurate building design.
 
 
 
@@ -88,4 +92,4 @@ The scene should capture the romance and adventure of the high seas, with the tr
 
 **IMPORTANT VISUAL REQUIREMENT**: All characters must have expressive, detailed eyeballs - never just dots for eyes. Eyes should be large, expressive, and clearly defined with pupils and emotional detail.
 
-**Art Style**: Modern 2D cartoon style with cel-shading with nautical blues and ocean colors, emphasizing the musical nature of the scene with flowing musical notes and the grand adventure of seafaring life, featuring bold outlines and flat colors.
+**Art Style**: Modern 2D cartoon style with cel-shading, bold outlines, flat colors with cel-shading, and special attention to the glowing, dimensional effects of the phone's holographic display. The scene should radiate success, validation, and joy - this is Corey at his peak, feeling appreciated for his hard work.
